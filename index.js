@@ -5,8 +5,25 @@ const mongoose = require('mongoose')
 
 const fetch = require('node-fetch')
 const { hash, createHash } = require('blake3')
+const { env } = require('process')
 
-mongoose.connect('_moongoose_url_', {
+
+
+Airtable.configure({
+  endpointUrl: 'https://api.airtable.com',
+  apiKey: env.AIRTABLE_API_KEY,
+})
+
+const airtableBase = Airtable.base(env.AIRTABLE_BASE_ID)
+
+airtableBase.table
+
+
+
+// ------------------------------------------------------------------ //
+
+
+mongoose.connect(env.MONGOOSE_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
@@ -18,9 +35,6 @@ db.once('open', function () {
   console.log('connected to mongodb')
 })
 
-Airtable.configure({ apiKey: 'API KEY' })
-
-const airtableBase = Airtable.base('_BASE ID_')
 
 const fi = item => (Array.isArray(item) ? item[0] : item)
 

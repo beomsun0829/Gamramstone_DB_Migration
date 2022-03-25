@@ -4,9 +4,9 @@ const fs = require('fs')
 const mongoose = require('mongoose')
 
 const fetch = require('node-fetch')
-const { hash, createHash } = require('blake3')
+//const { hash, createHash } = require('blake3')
 const { env } = require('process')
-
+require('dotenv').config()
 
 
 Airtable.configure({
@@ -14,11 +14,49 @@ Airtable.configure({
   apiKey: env.AIRTABLE_API_KEY,
 })
 
-const airtableBase = Airtable.base(env.AIRTABLE_BASE_ID)
 
-airtableBase.table
+const AirtableBase = Airtable.base(env.AIRTABLE_BASE_ID)
 
 
+//멤버 리스트
+const MemberList_data = ["왁물원 닉네임", "언어", "담당", "메인 담당 채널", "서브 담당 채널"]
+
+function Get_MemberList(){
+  console.log('----Getting Member List----')
+  json_data = {}
+  AirtableBase('멤버 리스트').select({
+      view: "영어"
+  }).eachPage(function page(records, fetchNextPage) {
+      records.forEach(function(record) {
+          for (let i = 0; i < MemberList_data.length; i++) {
+            if(record.get(MemberList_data[i]) != null){
+              json_data[MemberList_data[i]] = record.get(MemberList_data[i])
+            }
+            else{
+              json_data[MemberList_data[i]] = "null"
+            }
+          }
+          console.log(json_data)
+      });
+      fetchNextPage();
+  }, function done(err) {
+      if (err) { console.error(err); return; }
+  });
+}
+
+
+main()
+
+
+function main(){
+
+  Get_MemberList()
+}
+
+
+
+
+/*
 
 // ------------------------------------------------------------------ //
 
@@ -440,3 +478,5 @@ const uploadIndividualTranslation = async language => {
 
 // getIndividualTranslation('일본어')
 // uploadIndividualTranslation('일본어')
+
+*/

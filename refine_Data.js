@@ -31,6 +31,7 @@ async function readFiles(){
 
 async function refineData_EN(){
     var nowdata = {}
+    Translations['en'] = {}
     for(var index = 0; index < EN_Translation_Data.length; index++){
         nowdata = EN_Translation_Data[index]
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
@@ -88,7 +89,7 @@ function transcriptions_func(_videoid, nowdata){
 }
 
 function translations_func(_videoid, nowdata, lang){
-    Translations[lang] = {
+    Translations[lang][_videoid] = {
         videoId : _videoid,
         state : nowdata['진행 상황'],
         metadata : {

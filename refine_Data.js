@@ -14,7 +14,10 @@ var Transcriptions = []
 var Translations_EN = []
 var Translations_JP = []
 var Translations_CN = []
-var Translations_ETC = []
+var Translations_FR = []
+var Translations_ES = []
+var Translations_AR = []
+var Translations_VI = []
 
 const VideoState = {            //전부 0
     0 : '미지정',
@@ -131,48 +134,98 @@ async function refineData_FR(){
     for(var index = 0; index < ETC_Translation_Data.length; index++){
         nowdata = ETC_Translation_Data[index]
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
+        
         var exist_sw = false
         for(idIndex = 0; idIndex < Videos.length; idIndex++){
             if(Videos[idIndex]['id'] == _videoid){
                 console.log(_videoid + ' is already exist')
-                Videos[idIndex]['translations'].push('fr',)
+                Videos[idIndex]['translations'].push('fr')
                 exist_sw = true
                 break
             }
         }
 
         if(!exist_sw){
-            try{
-                console.log('GET videoid : ' + _videoid)
-                var _videoDetail = await getYoutubeVideoDetail(_videoid)
-                var _videoDetailSnippet = _videoDetail['items'][0]['snippet']
-                var _videoDetailContent = _videoDetail['items'][0]['contentDetails']
-
-                Videos.push({
-                    id: _videoid,
-                    channel: _videoDetailSnippet['channelId'],
-                    state: 0,
-                    metadata: {
-                        title: _videoDetailSnippet['title'],
-                        description: _videoDetailSnippet['description'],
-                        type : TranscriptionState[nowdata['진행 상황 (from 받아쓰기 + 자막 싱크)'][0]],
-                        url : 'https://youtu.be/' + _videoid,
-                        duration : getYoutubeVideoDuration(_videoDetailContent['duration']),
-                        uploadDate : _videoDetailSnippet['publishedAt'],
-                        deleted : false,
-                    },
-                    translations : ['fr',]
-                })
-
-                if(nowdata['한국어 자막파일'] != 'Null')
-                    transcriptions_func(_videoid, nowdata)
-            }
-            catch(e){
-                console.log(e)
+            await video_Push(_videoid, nowdata, 'fr')
+            transcriptions_func(_videoid, nowdata)
+        }
+        
+        translations_func_FR(_videoid, nowdata)
+    }
+}
+async function refineData_ES(){
+    console.log('----------------- refineData_ES -----------------')
+    var nowdata = {}
+    for(var index = 0; index < ETC_Translation_Data.length; index++){
+        nowdata = ETC_Translation_Data[index]
+        var _videoid = getVideoIDfromURL(nowdata['URL'][0])
+        
+        var exist_sw = false
+        for(idIndex = 0; idIndex < Videos.length; idIndex++){
+            if(Videos[idIndex]['id'] == _videoid){
+                console.log(_videoid + ' is already exist')
+                Videos[idIndex]['translations'].push('es')
+                exist_sw = true
+                break
             }
         }
-        if(nowdata['프랑스어 자막 파일'] != 'Null')
-            translations_func_FR(_videoid, nowdata)
+
+        if(!exist_sw){
+            await video_Push(_videoid, nowdata, 'es')
+            transcriptions_func(_videoid, nowdata)
+        }
+
+        translations_func_ES(_videoid, nowdata)
+    }
+}
+async function refineData_AR(){
+    console.log('----------------- refineData_AR -----------------')
+    var nowdata = {}
+    for(var index = 0; index < ETC_Translation_Data.length; index++){
+        nowdata = ETC_Translation_Data[index]
+        var _videoid = getVideoIDfromURL(nowdata['URL'][0])
+        
+        var exist_sw = false
+        for(idIndex = 0; idIndex < Videos.length; idIndex++){
+            if(Videos[idIndex]['id'] == _videoid){
+                console.log(_videoid + ' is already exist')
+                Videos[idIndex]['translations'].push('ar')
+                exist_sw = true
+                break
+            }
+        }
+
+        if(!exist_sw){
+            await video_Push(_videoid, nowdata, 'ar')
+            transcriptions_func(_videoid, nowdata)
+        }
+
+        translations_func_AR(_videoid, nowdata)
+    }
+}
+async function refineData_VI(){
+    console.log('----------------- refineData_VI -----------------')
+    var nowdata = {}
+    for(var index = 0; index < ETC_Translation_Data.length; index++){
+        nowdata = ETC_Translation_Data[index]
+        var _videoid = getVideoIDfromURL(nowdata['URL'][0])
+
+        var exist_sw = false
+        for(idIndex = 0; idIndex < Videos.length; idIndex++){
+            if(Videos[idIndex]['id'] == _videoid){
+                console.log(_videoid + ' is already exist')
+                Videos[idIndex]['translations'].push('vi')
+                exist_sw = true
+                break
+            }
+        }
+
+        if(!exist_sw){
+            await video_Push(_videoid, nowdata, 'vi')
+            transcriptions_func(_videoid, nowdata)
+        }
+        
+        translations_func_VI(_videoid, nowdata)
     }
 }
 
@@ -271,12 +324,89 @@ function translations_func_CN(_videoid, nowdata){
         },
         caption : {
             state : TranslationState_Metadata[nowdata['진행 상황']],
-            files : nowdata['중국 자막 파일'],
+            files : nowdata['중국어 자막 파일'],
         },
         contributors : [],
         histories : [],
     })
 }
+
+function translations_func_FR(_videoid, nowdata){
+    Translations_FR.push({
+        videoId : _videoid,
+        state : TranslationState[nowdata['진행 상황']],
+        metadata : {
+            title : nowdata['프랑스어 제목'],
+            description : nowdata['프랑스어 세부 정보'],
+            state : TranslationState_Metadata[nowdata['프랑스어 진행 상황']],
+            url : 'https://youtu.be/' + _videoid,
+        },
+        caption : {
+            state : TranslationState_Metadata[nowdata['진행 상황']],
+            files : nowdata['프랑스어 자막 파일'],
+        },
+        contributors : [],
+        histories : [],
+    })
+}
+
+function translations_func_ES(_videoid, nowdata){
+    Translations_ES.push({
+        videoId : _videoid,
+        state : TranslationState[nowdata['진행 상황']],
+        metadata : {
+            title : nowdata['스페인어 제목'],
+            description : nowdata['스페인어 세부 정보'],
+            state : TranslationState_Metadata[nowdata['스페인어 진행 상황']],
+            url : 'https://youtu.be/' + _videoid,
+        },
+        caption : {
+            state : TranslationState_Metadata[nowdata['진행 상황']],
+            files : nowdata['스페인어 자막 파일'],
+        },
+        contributors : [],
+        histories : [],
+    })
+}
+
+function translations_func_AR(_videoid, nowdata){
+    Translations_AR.push({
+        videoId : _videoid,
+        state : TranslationState[nowdata['진행 상황']],
+        metadata : {
+            title : nowdata['아랍어 제목'],
+            description : nowdata['아랍어 세부 정보'],
+            state : TranslationState_Metadata[nowdata['아랍어 진행 상황']],
+            url : 'https://youtu.be/' + _videoid,
+        },
+        caption : {
+            state : TranslationState_Metadata[nowdata['진행 상황']],
+            files : nowdata['아랍어 자막 파일'],
+        },
+        contributors : [],
+        histories : [],
+    })
+}
+
+function translations_func_VI(_videoid, nowdata){
+    Translations_VI.push({
+        videoId : _videoid,
+        state : TranslationState[nowdata['진행 상황']],
+        metadata : {
+            title : nowdata['베트남어 제목'],
+            description : nowdata['베트남어 세부 정보'],
+            state : TranslationState_Metadata[nowdata['베트남어 진행 상황']],
+            url : 'https://youtu.be/' + _videoid,
+        },
+        caption : {
+            state : TranslationState_Metadata[nowdata['진행 상황']],
+            files : nowdata['베트남어 자막 파일'],
+        },
+        contributors : [],
+        histories : [],
+    })
+}
+
 
 async function getYoutubeVideoDetail(URL){
     requestURL = 'https://www.googleapis.com/youtube/v3/videos?'
@@ -308,6 +438,10 @@ async function main(){
     await refineData_EN()
     await refineData_JP()
     await refineData_CN()
+    await refineData_FR()
+    await refineData_ES()
+    await refineData_AR()
+    await refineData_VI()
 
     console.log('------Write to JSON file------')
 
@@ -316,6 +450,10 @@ async function main(){
     await fs.writeFile('./RefinedData/Translations_EN.json', JSON.stringify(Translations_EN, null, '\t'))
     await fs.writeFile('./RefinedData/Translations_JP.json', JSON.stringify(Translations_JP, null, '\t'))
     await fs.writeFile('./RefinedData/Translations_CN.json', JSON.stringify(Translations_CN, null, '\t'))
+    await fs.writeFile('./RefinedData/Translations_FR.json', JSON.stringify(Translations_FR, null, '\t'))
+    await fs.writeFile('./RefinedData/Translations_ES.json', JSON.stringify(Translations_ES, null, '\t'))
+    await fs.writeFile('./RefinedData/Translations_AR.json', JSON.stringify(Translations_AR, null, '\t'))
+    await fs.writeFile('./RefinedData/Translations_VI.json', JSON.stringify(Translations_VI, null, '\t'))
 }
 main()
 //test()

@@ -9210,33 +9210,5 @@
 		},
 		"contributors": [],
 		"histories": []
-	},
-	{
-		"videoId": "N",
-		"metadata": {
-			"title": "Null",
-			"description": "Null",
-			"state": 50,
-			"url": "https://youtu.be/N"
-		},
-		"caption": {
-			"files": "Null"
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
-		"videoId": "N",
-		"metadata": {
-			"title": "Null",
-			"description": "Null",
-			"state": 50,
-			"url": "https://youtu.be/N"
-		},
-		"caption": {
-			"files": "Null"
-		},
-		"contributors": [],
-		"histories": []
 	}
 ]

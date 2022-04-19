@@ -3,7 +3,7 @@
 		"videoId": "e5YOmRvpswQ",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -31,7 +31,7 @@
 		"videoId": "2LFwo-sMHN0",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -41,7 +41,7 @@
 		"videoId": "oIRj8WXKGRs",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -51,7 +51,7 @@
 		"videoId": "Q53L5ICDfoY",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -61,7 +61,7 @@
 		"videoId": "AxwvQKrioeo",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -89,7 +89,7 @@
 		"videoId": "rmaNUAZ7HxA",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -118,7 +118,7 @@
 		"videoId": "tynJIy3G5c8",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -218,7 +218,7 @@
 		"videoId": "KdWPnX7HVCY",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -228,7 +228,7 @@
 		"videoId": "TpB3ERSlYC4",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -310,7 +310,7 @@
 		"videoId": "LIbc2AifkEI",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -321,7 +321,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -404,7 +404,7 @@
 		"videoId": "sD5AKizM0mw",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -414,7 +414,7 @@
 		"videoId": "Can048Vk0G4",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -425,7 +425,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -453,7 +453,7 @@
 		"videoId": "R-ZaGUtzmnA",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -482,7 +482,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -529,7 +529,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -540,7 +540,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -569,7 +569,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -580,7 +580,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -627,7 +627,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -675,7 +675,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -748,7 +748,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -832,7 +832,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -843,7 +843,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -908,7 +908,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1026,7 +1026,7 @@
 		"videoId": "uXe0r59cWdE",
 		"caption": {
 			"caption_state": 1,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1037,7 +1037,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1104,7 +1104,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1115,7 +1115,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1224,7 +1224,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1235,7 +1235,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1319,7 +1319,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1460,7 +1460,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1527,7 +1527,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1631,7 +1631,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1661,7 +1661,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1802,7 +1802,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1850,7 +1850,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -1936,7 +1936,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2178,7 +2178,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2208,7 +2208,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2256,7 +2256,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2431,7 +2431,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2442,7 +2442,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2545,7 +2545,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2575,7 +2575,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2624,7 +2624,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2766,7 +2766,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2777,7 +2777,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2844,7 +2844,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -2948,7 +2948,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -3035,7 +3035,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -3065,7 +3065,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -3488,7 +3488,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -3573,7 +3573,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -3925,7 +3925,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -3992,7 +3992,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4247,7 +4247,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4397,7 +4397,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4445,7 +4445,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4474,7 +4474,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4654,7 +4654,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4683,7 +4683,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4843,7 +4843,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4873,7 +4873,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4884,7 +4884,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4895,7 +4895,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4960,7 +4960,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -4971,7 +4971,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5113,7 +5113,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5162,7 +5162,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5191,7 +5191,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5465,7 +5465,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5476,7 +5476,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5638,7 +5638,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5704,7 +5704,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5733,7 +5733,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5856,7 +5856,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -5987,7 +5987,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6093,7 +6093,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6104,7 +6104,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6115,7 +6115,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6181,7 +6181,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6211,7 +6211,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6241,7 +6241,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6252,7 +6252,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6317,7 +6317,7 @@
 	{
 		"videoId": "YxupFOZoEwI",
 		"caption": {
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6421,7 +6421,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6488,7 +6488,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6499,7 +6499,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6528,7 +6528,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6615,7 +6615,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6664,7 +6664,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6712,7 +6712,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6723,7 +6723,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6810,7 +6810,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6859,7 +6859,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6908,7 +6908,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -6937,7 +6937,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7005,7 +7005,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7053,7 +7053,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7064,7 +7064,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7169,7 +7169,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7180,7 +7180,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7191,7 +7191,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7221,7 +7221,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7326,7 +7326,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7355,7 +7355,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7477,7 +7477,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7488,7 +7488,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7499,7 +7499,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7567,7 +7567,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7616,7 +7616,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7646,7 +7646,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7675,7 +7675,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7743,7 +7743,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7773,7 +7773,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7803,7 +7803,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7851,7 +7851,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7900,7 +7900,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7911,7 +7911,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7941,7 +7941,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7952,7 +7952,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7963,7 +7963,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -7992,7 +7992,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8048,7 +8048,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8140,7 +8140,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8170,7 +8170,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8181,7 +8181,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8192,7 +8192,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8203,7 +8203,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8233,7 +8233,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8244,7 +8244,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8273,7 +8273,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8284,7 +8284,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8333,7 +8333,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8362,7 +8362,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8410,7 +8410,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8421,7 +8421,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8533,7 +8533,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8544,7 +8544,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8574,7 +8574,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8660,7 +8660,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8690,7 +8690,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8720,7 +8720,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8824,7 +8824,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8873,7 +8873,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8921,7 +8921,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8951,7 +8951,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -8962,7 +8962,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9085,7 +9085,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9133,7 +9133,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9201,7 +9201,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9269,7 +9269,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9336,7 +9336,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9366,7 +9366,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9396,7 +9396,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9482,7 +9482,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9531,7 +9531,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9542,7 +9542,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9572,7 +9572,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9621,7 +9621,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9724,7 +9724,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9963,7 +9963,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9974,7 +9974,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9985,7 +9985,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -9996,7 +9996,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10139,7 +10139,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10206,7 +10206,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10273,7 +10273,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10433,7 +10433,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10481,7 +10481,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10492,7 +10492,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10503,7 +10503,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10514,7 +10514,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10525,7 +10525,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10555,7 +10555,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10566,7 +10566,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10652,7 +10652,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10663,7 +10663,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10731,7 +10731,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10817,7 +10817,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10828,7 +10828,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10839,7 +10839,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10850,7 +10850,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10861,7 +10861,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10910,7 +10910,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -10939,7 +10939,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11050,7 +11050,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11061,7 +11061,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11090,7 +11090,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11156,7 +11156,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11167,7 +11167,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11197,7 +11197,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11208,7 +11208,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11219,7 +11219,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11371,7 +11371,7 @@
 		"videoId": "nOWNSvUUcJ8",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11381,7 +11381,7 @@
 		"videoId": "sdSOkPNFc1M",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11391,7 +11391,7 @@
 		"videoId": "akMFnvDk52w",
 		"caption": {
 			"caption_state": 50,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11456,7 +11456,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11467,7 +11467,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11478,7 +11478,7 @@
 		"state": 100,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11489,7 +11489,7 @@
 		"state": 110,
 		"caption": {
 			"caption_state": 100,
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11552,7 +11552,7 @@
 	{
 		"videoId": "JKhXM59SsqU",
 		"caption": {
-			"caption_uploads": true,
+			"caption_uploads": false,
 			"caption_files": "Null"
 		},
 		"contributors": [],
@@ -11610,19 +11610,52 @@
 		"histories": []
 	},
 	{
-		"videoId": "N",
+		"videoId": "bjp2-eTndZs",
 		"caption": {
 			"caption_uploads": true,
-			"caption_files": "Null"
+			"caption_files": [
+				{
+					"id": "attkxflky3JI2hqAh",
+					"url": "https://dl.airtable.com/.attachments/9cfafbb709cddecea30f93aaf6dd02d0/a245e403/RollingStarCOVER.srt?ts=1650195226&userId=usrAEXonpJD7VUn4d&cs=ec8b7099d5c6dcfb",
+					"filename": "Rolling Star COVER.srt",
+					"size": 1561,
+					"type": "application/x-subrip"
+				}
+			]
 		},
 		"contributors": [],
 		"histories": []
 	},
 	{
-		"videoId": "N",
+		"videoId": "g6U0VzqgKi0",
 		"caption": {
 			"caption_uploads": true,
-			"caption_files": "Null"
+			"caption_files": [
+				{
+					"id": "attsC9thns2rZqmp0",
+					"url": "https://dl.airtable.com/.attachments/6382b38706435adf98ec7e64ba5d5d2a/b26d37dc.srt?ts=1650195226&userId=usrAEXonpJD7VUn4d&cs=5550e639737f3015",
+					"filename": "네가 모르는 이야기.srt",
+					"size": 1066,
+					"type": "application/x-subrip"
+				}
+			]
+		},
+		"contributors": [],
+		"histories": []
+	},
+	{
+		"videoId": "JywvDgXRRBM",
+		"caption": {
+			"caption_uploads": true,
+			"caption_files": [
+				{
+					"id": "attzdUeSgrPaMTZ56",
+					"url": "https://dl.airtable.com/.attachments/9a203a063433ed8f5d96533de7adb078/9800a447/EnVYBABY.srt?ts=1650195226&userId=usrAEXonpJD7VUn4d&cs=458c8c946c06ab46",
+					"filename": "EnVY BABY.srt",
+					"size": 4487,
+					"type": "application/x-subrip"
+				}
+			]
 		},
 		"contributors": [],
 		"histories": []
@@ -11679,24 +11712,6 @@
 		"histories": []
 	},
 	{
-		"videoId": "N",
-		"caption": {
-			"caption_uploads": true,
-			"caption_files": "Null"
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
-		"videoId": "N",
-		"caption": {
-			"caption_uploads": true,
-			"caption_files": "Null"
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
 		"videoId": "bjp2-eTndZs",
 		"caption": {
 			"caption_uploads": true,
@@ -11743,93 +11758,6 @@
 					"type": "application/x-subrip"
 				}
 			]
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
-		"videoId": "N",
-		"caption": {
-			"caption_uploads": true,
-			"caption_files": "Null"
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
-		"videoId": "N",
-		"caption": {
-			"caption_uploads": true,
-			"caption_files": "Null"
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
-		"videoId": "bjp2-eTndZs",
-		"caption": {
-			"caption_uploads": true,
-			"caption_files": [
-				{
-					"id": "attkxflky3JI2hqAh",
-					"url": "https://dl.airtable.com/.attachments/9cfafbb709cddecea30f93aaf6dd02d0/a245e403/RollingStarCOVER.srt?ts=1650195226&userId=usrAEXonpJD7VUn4d&cs=ec8b7099d5c6dcfb",
-					"filename": "Rolling Star COVER.srt",
-					"size": 1561,
-					"type": "application/x-subrip"
-				}
-			]
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
-		"videoId": "g6U0VzqgKi0",
-		"caption": {
-			"caption_uploads": true,
-			"caption_files": [
-				{
-					"id": "attsC9thns2rZqmp0",
-					"url": "https://dl.airtable.com/.attachments/6382b38706435adf98ec7e64ba5d5d2a/b26d37dc.srt?ts=1650195226&userId=usrAEXonpJD7VUn4d&cs=5550e639737f3015",
-					"filename": "네가 모르는 이야기.srt",
-					"size": 1066,
-					"type": "application/x-subrip"
-				}
-			]
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
-		"videoId": "JywvDgXRRBM",
-		"caption": {
-			"caption_uploads": true,
-			"caption_files": [
-				{
-					"id": "attzdUeSgrPaMTZ56",
-					"url": "https://dl.airtable.com/.attachments/9a203a063433ed8f5d96533de7adb078/9800a447/EnVYBABY.srt?ts=1650195226&userId=usrAEXonpJD7VUn4d&cs=458c8c946c06ab46",
-					"filename": "EnVY BABY.srt",
-					"size": 4487,
-					"type": "application/x-subrip"
-				}
-			]
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
-		"videoId": "N",
-		"caption": {
-			"caption_uploads": true,
-			"caption_files": "Null"
-		},
-		"contributors": [],
-		"histories": []
-	},
-	{
-		"videoId": "N",
-		"caption": {
-			"caption_uploads": true,
-			"caption_files": "Null"
 		},
 		"contributors": [],
 		"histories": []

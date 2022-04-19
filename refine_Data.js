@@ -24,7 +24,6 @@ const VideoState = {            //전부 0
     1 : '잠금',
     2 : '읽기 전용'
 }
-
 const TranscriptionState = {    //받아쓰기 + 자막 싱크 - 진행상황
     "해당없음 (자막 필요 없는 영상)" : -1,
     "시작안함" : 0,
@@ -32,7 +31,6 @@ const TranscriptionState = {    //받아쓰기 + 자막 싱크 - 진행상황
     "자막 싱크" : 2,
     "번역" : 99
 }
-
 const TranslationState_Metadata = {      //각 언어 테이블 (영어 번역, 중국어 번역, 일본어 번역, 기타 언어 번역) 의 진행 상황 필드
     "번역" : 1,
     "검수" : 50,
@@ -40,7 +38,6 @@ const TranslationState_Metadata = {      //각 언어 테이블 (영어 번역, 
     "자막 제작 완료" : 100,
     "유튜브 적용 완료" : 100
 }
-
 const TranslationState = {              //각 언어 테이블의 진행 상황 필드 값
     "Null" : 0,
     "번역, 검수" : 1,
@@ -68,6 +65,8 @@ async function refineData_EN(){
     for(var index = 0; index < EN_Translation_Data.length; index++){
         nowdata = EN_Translation_Data[index]
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
+        if(_videoid == 'N')
+            continue
 
         await video_Push(_videoid, nowdata, 'en')
         
@@ -82,6 +81,8 @@ async function refineData_JP(){
     for(var index = 0; index < JP_Translation_Data.length; index++){
         nowdata = JP_Translation_Data[index]
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
+        if(_videoid == 'N')
+            continue
 
         var exist_sw = false
         for(idIndex = 0; idIndex < Videos.length; idIndex++){
@@ -108,6 +109,8 @@ async function refineData_CN(){
     for(var index = 0; index < CN_Translation_Data.length; index++){
         nowdata = CN_Translation_Data[index]
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
+        if(_videoid == 'N')
+            continue
 
         var exist_sw = false
         for(idIndex = 0; idIndex < Videos.length; idIndex++){
@@ -134,6 +137,8 @@ async function refineData_FR(){
     for(var index = 0; index < ETC_Translation_Data.length; index++){
         nowdata = ETC_Translation_Data[index]
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
+        if(_videoid == 'N')
+            continue
         
         var exist_sw = false
         for(idIndex = 0; idIndex < Videos.length; idIndex++){
@@ -159,6 +164,8 @@ async function refineData_ES(){
     for(var index = 0; index < ETC_Translation_Data.length; index++){
         nowdata = ETC_Translation_Data[index]
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
+        if(_videoid == 'N')
+            continue
         
         var exist_sw = false
         for(idIndex = 0; idIndex < Videos.length; idIndex++){
@@ -185,6 +192,8 @@ async function refineData_AR(){
         nowdata = ETC_Translation_Data[index]
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
         
+        if(_videoid == 'N')
+            continue
         var exist_sw = false
         for(idIndex = 0; idIndex < Videos.length; idIndex++){
             if(Videos[idIndex]['id'] == _videoid){
@@ -209,7 +218,8 @@ async function refineData_VI(){
     for(var index = 0; index < ETC_Translation_Data.length; index++){
         nowdata = ETC_Translation_Data[index]
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
-
+        if(_videoid == 'N')
+            continue
         var exist_sw = false
         for(idIndex = 0; idIndex < Videos.length; idIndex++){
             if(Videos[idIndex]['id'] == _videoid){
@@ -266,7 +276,7 @@ function transcriptions_func(_videoid, nowdata){
         state : TranslationState[nowdata['진행 상황']],
         caption : {
             caption_state : TranslationState_Metadata[nowdata['진행 상황']],
-            caption_uploads : true,
+            caption_uploads : nowdata['한국어 자막파일'] == 'Null' ? false : true,
             caption_files : nowdata['한국어 자막파일'],
         },
         contributors : [],

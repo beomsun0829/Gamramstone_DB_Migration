@@ -1,4 +1,5 @@
 const fs = require('fs');
+const http = require('http');
 const fetch = require('node-fetch');
 
 const { env } = process;
@@ -35,9 +36,23 @@ async function readFiles(){
     Translations_VI = JSON.parse(Translations_VI)
 }
 
+async function downloadFiles(){
+    for(var i = 0; i < Transcriptions.length; i++){
+        if(Transcriptions[i]["caption"]["caption_uploads"] == true){
+            for(var j = 0; j < Transcriptions[i]["caption"]["caption_files"].length; j++){
+                console.log("fetch " + Transcriptions[i]["caption"]["caption_files"][j]["url"])
+                var file = fs.createWriteStream("./Downloadfile/Transcriptions/" + Transcriptions[i]["caption"]["caption_files"][j]["id"]);
+                const request = await fetch(Transcriptions[i]["caption"]["caption_files"][j]["url"]);
+                await request.body.pipe(file);
+            }
+        }
+    }
+}
+
 
 async function main(){
     await readFiles()
+    await downloadFiles()
 }
 
 main()

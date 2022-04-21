@@ -5,6 +5,8 @@ const fetch = require('node-fetch');
 const { env } = process;
 require('dotenv').config()
 
+const FileReader = require('filereader');
+
 var Videos = []
 var Transcriptions = []
 var Translations_EN = []
@@ -36,23 +38,47 @@ async function readFiles(){
     Translations_VI = JSON.parse(Translations_VI)
 }
 
+
 async function downloadFiles(){
     for(var i = 0; i < Transcriptions.length; i++){
         if(Transcriptions[i]["caption"]["caption_uploads"] == true){
-            for(var j = 0; j < Transcriptions[i]["caption"]["caption_files"].length; j++){
-                console.log("fetch " + Transcriptions[i]["caption"]["caption_files"][j]["url"])
-                var file = fs.createWriteStream("./Downloadfile/Transcriptions/" + Transcriptions[i]["caption"]["caption_files"][j]["id"]);
-                const request = await fetch(Transcriptions[i]["caption"]["caption_files"][j]["url"]);
+            var captionfile = Transcriptions[i]["caption"]["caption_files"]
+            for(var j = 0; j < captionfile.length; j++){
+                console.log("fetch " + captionfile[j]["url"])
+                const request = await fetch(captionfile[j]["url"]);
+                //download the file
+                const file = fs.createWriteStream('./Downloadfile/Transcriptions/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
                 await request.body.pipe(file);
             }
         }
     }
 }
 
+//encode file to base64
+
+async function encodeFiles(){
+    for(var i = 0 ; i < Transcriptions.length; i ++){
+        if(Transcriptions[i]["caption"]["caption_uploads"] == true){
+            var captionfile = Transcriptions[i]["caption"]["caption_files"]
+            for(var j = 0; j < captionfile.length; j++){
+                var file = fs.readFileSync('./Downloadfile/Transcriptions/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
+                var base64data = new Buffer.from(file).toString('base64');
+                captionfile[j]["base64"] = base64data
+            }
+        }
+    }
+}
+
+async function writeFiles(){
+    fs.writeFileSync('./EncodedData/Transcriptions.json', JSON.stringify(Transcriptions, null, 2))
+}
+
 
 async function main(){
     await readFiles()
-    await downloadFiles()
+    //await downloadFiles()
+    await encodeFiles()
+    await writeFiles()
 }
 
 main()

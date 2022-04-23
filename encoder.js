@@ -47,11 +47,103 @@ async function downloadFiles(){
                 console.log("fetch " + captionfile[j]["url"])
                 const request = await fetch(captionfile[j]["url"]);
                 //download the file
-                const file = fs.createWriteStream('./Downloadfile/Transcriptions/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
+                const file = fs.createWriteStream('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
                 await request.body.pipe(file);
             }
         }
     }
+
+    for(var i = 0; i < Translations_EN.length; i++){
+        if(Translations_EN[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_EN[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                console.log("fetch " + captionfile[j]["url"])
+                const request = await fetch(captionfile[j]["url"]);
+                //download the file
+                const file = fs.createWriteStream('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
+                await request.body.pipe(file);
+            }
+        }
+    }
+
+    for(var i = 0; i < Translations_JP.length; i++){
+        if(Translations_JP[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_JP[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                console.log("fetch " + captionfile[j]["url"])
+                const request = await fetch(captionfile[j]["url"]);
+                //download the file
+                const file = fs.createWriteStream('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
+                await request.body.pipe(file);
+            }
+        }
+    }
+
+    for(var i = 0; i < Translations_CN.length; i++){
+        if(Translations_CN[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_CN[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                console.log("fetch " + captionfile[j]["url"])
+                const request = await fetch(captionfile[j]["url"]);
+                //download the file
+                const file = fs.createWriteStream('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
+                await request.body.pipe(file);
+            }
+        }
+    }
+
+    for(var i = 0; i < Translations_FR.length; i++){
+        if(Translations_FR[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_FR[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                console.log("fetch " + captionfile[j]["url"])
+                const request = await fetch(captionfile[j]["url"]);
+                //download the file
+                const file = fs.createWriteStream('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
+                await request.body.pipe(file);
+            }
+        }
+    }
+
+    for(var i = 0; i < Translations_ES.length; i++){
+        if(Translations_ES[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_ES[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                console.log("fetch " + captionfile[j]["url"])
+                const request = await fetch(captionfile[j]["url"]);
+                //download the file
+                const file = fs.createWriteStream('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
+                await request.body.pipe(file);
+            }
+        }
+    }
+
+    for(var i = 0; i < Translations_AR.length; i++){
+        if(Translations_AR[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_AR[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                console.log("fetch " + captionfile[j]["url"])
+                const request = await fetch(captionfile[j]["url"]);
+                //download the file
+                const file = fs.createWriteStream('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
+                await request.body.pipe(file);
+            }
+        }
+    }
+
+    for(var i = 0; i < Translations_VI.length; i++){
+        if(Translations_VI[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_VI[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                console.log("fetch " + captionfile[j]["url"])
+                const request = await fetch(captionfile[j]["url"]);
+                //download the file
+                const file = fs.createWriteStream('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4));
+                await request.body.pipe(file);
+            }
+        }
+    }
+
 }
 
 //encode file to base64
@@ -61,22 +153,107 @@ async function encodeFiles(){
         if(Transcriptions[i]["caption"]["caption_uploads"] == true){
             var captionfile = Transcriptions[i]["caption"]["caption_files"]
             for(var j = 0; j < captionfile.length; j++){
-                var file = fs.readFileSync('./Downloadfile/Transcriptions/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
+                var file = fs.readFileSync('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
                 var base64data = new Buffer.from(file).toString('base64');
                 captionfile[j]["base64"] = base64data
             }
         }
     }
+
+    for(var i = 0 ; i < Translations_EN.length; i ++){
+        if(Translations_EN[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_EN[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                var file = fs.readFileSync('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
+                var base64data = new Buffer.from(file).toString('base64');
+                captionfile[j]["base64"] = base64data
+            }
+        }
+    }
+
+    for(var i = 0 ; i < Translations_JP.length; i ++){
+        if(Translations_JP[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_JP[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                var file = fs.readFileSync('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
+                var base64data = new Buffer.from(file).toString('base64');
+                captionfile[j]["base64"] = base64data
+            }
+        }
+    }
+
+    for(var i = 0 ; i < Translations_CN.length; i ++){
+        if(Translations_CN[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_CN[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                var file = fs.readFileSync('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
+                var base64data = new Buffer.from(file).toString('base64');
+                captionfile[j]["base64"] = base64data
+            }
+        }
+    }
+
+    for(var i = 0 ; i < Translations_FR.length; i ++){
+        if(Translations_FR[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_FR[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                var file = fs.readFileSync('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
+                var base64data = new Buffer.from(file).toString('base64');
+                captionfile[j]["base64"] = base64data
+            }
+        }
+    }
+
+    for(var i = 0 ; i < Translations_ES.length; i ++){
+        if(Translations_ES[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_ES[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                var file = fs.readFileSync('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
+                var base64data = new Buffer.from(file).toString('base64');
+                captionfile[j]["base64"] = base64data
+            }
+        }
+    }
+
+    for(var i = 0 ; i < Translations_AR.length; i ++){
+        if(Translations_AR[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_AR[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                var file = fs.readFileSync('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
+                var base64data = new Buffer.from(file).toString('base64');
+                captionfile[j]["base64"] = base64data
+            }
+        }
+    }
+
+    for(var i = 0 ; i < Translations_VI.length; i ++){
+        if(Translations_VI[i]["caption"]["files"] != "Null"){
+            var captionfile = Translations_VI[i]["caption"]["files"]
+            for(var j = 0; j < captionfile.length; j++){
+                var file = fs.readFileSync('./Downloadfile/' + captionfile[j]["id"] + captionfile[j]["filename"].slice(-4))
+                var base64data = new Buffer.from(file).toString('base64');
+                captionfile[j]["base64"] = base64data
+            }
+        }
+    }
+        
 }
 
 async function writeFiles(){
     fs.writeFileSync('./EncodedData/Transcriptions.json', JSON.stringify(Transcriptions, null, 2))
+    fs.writeFileSync('./EncodedData/Translations_EN.json', JSON.stringify(Translations_EN, null, 2))
+    fs.writeFileSync('./EncodedData/Translations_JP.json', JSON.stringify(Translations_JP, null, 2))
+    fs.writeFileSync('./EncodedData/Translations_CN.json', JSON.stringify(Translations_CN, null, 2))
+    fs.writeFileSync('./EncodedData/Translations_FR.json', JSON.stringify(Translations_FR, null, 2))
+    fs.writeFileSync('./EncodedData/Translations_ES.json', JSON.stringify(Translations_ES, null, 2))
+    fs.writeFileSync('./EncodedData/Translations_AR.json', JSON.stringify(Translations_AR, null, 2))
+    fs.writeFileSync('./EncodedData/Translations_VI.json', JSON.stringify(Translations_VI, null, 2))
 }
 
 
 async function main(){
     await readFiles()
-    //await downloadFiles()
+    await downloadFiles()
     await encodeFiles()
     await writeFiles()
 }

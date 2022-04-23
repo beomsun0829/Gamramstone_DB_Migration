@@ -67,7 +67,6 @@ async function refineData_EN(){
         var _videoid = getVideoIDfromURL(nowdata['URL'][0])
         if(_videoid == 'N')
             continue
-
         await video_Push(_videoid, nowdata, 'en')
         
         transcriptions_func(_videoid, nowdata)

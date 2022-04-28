@@ -1,0 +1,5126 @@
+{
+  "key": "dictionary",
+  "items": [
+    {
+      "term": "(VR챗) 맵",
+      "definition": "가상 공간에서 캐릭터가 활동할 수 있는 공간을 이르는 말.",
+      "alias": [
+        "월드"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "World",
+          "examples": []
+        },
+        "ja": {
+          "term": "マップ",
+          "examples": []
+        },
+        "zh": {
+          "term": "地图",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-30T14:21:11.000Z",
+      "updated_date": "2021-12-30T14:21:11.000Z"
+    },
+    {
+      "term": "(채팅) 도배",
+      "definition": "자신의 의견을 피력하거나 불만을 표출하기 위해, 혹은 관심을 드러내기 위해 글, 사진 등을 반복적으로 게시하는 일을 비유적으로 이르는 말.",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "(チャット）連投/荒らし",
+          "examples": []
+        },
+        "zh": {
+          "term": "刷屏",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376333798173",
+          "user": "0",
+          "date": "2022-03-06T15:16:22.000Z",
+          "lang": "common",
+          "value": "채팅 도배 or 분탕"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-03-06T15:16:22.000Z",
+      "updated_date": "2022-03-06T15:16:22.000Z"
+    },
+    {
+      "term": "158cm",
+      "definition": "누군가의 키 단위.",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "158cm",
+          "examples": []
+        },
+        "ja": {
+          "term": "158cm",
+          "examples": []
+        },
+        "zh": {
+          "term": "158/一五八",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376328322993",
+          "user": "0",
+          "date": "2021-12-20T11:24:16.000Z",
+          "lang": "common",
+          "value": "5 피트 2인치 (5'2)"
+        }
+      ],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-12-20T11:24:16.000Z",
+      "updated_date": "2021-12-20T11:24:16.000Z"
+    },
+    {
+      "term": "BJ곰팡이",
+      "alias": [
+        "BJ팡이"
+      ],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "BJカビ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2022-01-27T17:35:38.000Z",
+      "updated_date": "2022-01-27T17:35:38.000Z"
+    },
+    {
+      "term": "ㄱㅇㅇ",
+      "definition": "귀여워에서 자음을 따온 말",
+      "alias": [
+        "700"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "C U T E",
+          "examples": []
+        },
+        "ja": {
+          "term": "キャワワ",
+          "examples": []
+        },
+        "zh": {
+          "term": "可爱",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-28T08:35:58.000Z",
+      "updated_date": "2021-11-28T08:35:58.000Z"
+    },
+    {
+      "term": "각이다",
+      "definition": "~할만한 상황일 때 붙이는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "알잘딱 번역",
+          "examples": []
+        },
+        "ja": {
+          "term": "ワンチャン",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-15T16:47:58.000Z",
+      "updated_date": "2022-01-15T16:47:58.000Z"
+    },
+    {
+      "term": "감람스톤 크레딧 양식",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "ENG SUB by Team Gamram Stone",
+          "examples": []
+        },
+        "ja": {
+          "term": "Jpn Sub by Team Gamram Stone",
+          "examples": []
+        },
+        "zh": {
+          "term": " Chn Sub by Team Gamram Stone",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-03-16T23:37:35.000Z",
+      "updated_date": "2022-03-16T23:37:35.000Z"
+    },
+    {
+      "term": "갓겜",
+      "definition": "갓 게임. 좋은 게임을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "神ゲー",
+          "examples": []
+        },
+        "zh": {
+          "term": "好游",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-06T03:20:31.000Z",
+      "updated_date": "2022-02-06T03:20:31.000Z"
+    },
+    {
+      "term": "개-",
+      "definition": "뒷 말을 강조하기 위해 붙이는 접두사. 순화어로 댕-을 사용",
+      "alias": [
+        "댕-"
+      ],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "めっちゃ or くそ",
+          "examples": []
+        },
+        "zh": {
+          "term": "贼~/超~",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376327929461",
+          "user": "0",
+          "date": "2022-02-10T05:47:12.000Z",
+          "lang": "common",
+          "value": "Ex) 댕맛있다, 개맛없다"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-10T05:47:12.000Z",
+      "updated_date": "2022-02-10T05:47:12.000Z"
+    },
+    {
+      "term": "개같이",
+      "definition": "무지성과 비슷하게 사용",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "むちゃくちゃ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-09T09:29:27.000Z",
+      "updated_date": "2022-02-09T09:29:27.000Z"
+    },
+    {
+      "term": "객관안",
+      "definition": "객관적인 시선",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Objective Vision",
+          "examples": []
+        },
+        "ja": {
+          "term": "客観眼",
+          "examples": []
+        },
+        "zh": {
+          "term": "客观眼",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-14T09:50:32.000Z",
+      "updated_date": "2021-12-14T09:50:32.000Z"
+    },
+    {
+      "term": "겔겔겔",
+      "definition": "아이네가 악질 행동을 할 때 내는 웃음 소리를 표현한 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Gel gel gel",
+          "examples": []
+        },
+        "ja": {
+          "term": "ゲロゲロゲロ or ゲルゲルゲル",
+          "examples": []
+        },
+        "zh": {
+          "term": "咯咯咯",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2022-01-21T01:13:08.000Z",
+      "updated_date": "2022-01-21T01:13:08.000Z"
+    },
+    {
+      "term": "고라니",
+      "definition": "비챤의 팬",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Gorani",
+          "examples": []
+        },
+        "ja": {
+          "term": "발음표기 ゴラニ / 직역 キバノロ(牙獐)",
+          "examples": []
+        },
+        "zh": {
+          "term": "獐子",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376333234612",
+          "user": "0",
+          "date": "2021-11-27T21:44:24.000Z",
+          "lang": "common",
+          "value": "(일) 많이들 잘못 알고있는 ヘラジカ는 무스를 뜻합니다."
+        }
+      ],
+      "tags": [
+        "비챤"
+      ],
+      "registered_date": "2021-11-27T21:44:24.000Z",
+      "updated_date": "2021-11-27T21:44:24.000Z"
+    },
+    {
+      "term": "고랄",
+      "definition": "지랄 + 고세구",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ゴふざけ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2022-01-27T17:37:29.000Z",
+      "updated_date": "2022-01-27T17:37:29.000Z"
+    },
+    {
+      "term": "고맙다네(꼬막다네)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Thx-ne / Thank you-ne",
+          "examples": []
+        },
+        "ja": {
+          "term": "ありがとうね",
+          "examples": []
+        },
+        "zh": {
+          "term": "谢谢娞",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-12-27T10:43:39.000Z",
+      "updated_date": "2021-12-27T10:43:39.000Z"
+    },
+    {
+      "term": "고멤무스메",
+      "definition": "게임 \"우마무스메\" 의 패러디 게임을 이르는 말. 순서를 뽑는 기능을 함",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "固定メンバー娘",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2022-03-11T11:53:20.000Z",
+      "updated_date": "2022-03-11T11:53:20.000Z"
+    },
+    {
+      "term": "고세구",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Gosegu",
+          "examples": []
+        },
+        "ja": {
+          "term": "ゴセグ",
+          "examples": []
+        },
+        "zh": {
+          "term": "高赛固",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2021-11-27T12:35:15.000Z",
+      "updated_date": "2021-11-27T12:35:15.000Z"
+    },
+    {
+      "term": "고정멤버",
+      "definition": "고정 멤버 자리",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Gojeong Member (Gomem)",
+          "examples": []
+        },
+        "ja": {
+          "term": "固定メンバー",
+          "examples": []
+        },
+        "zh": {
+          "term": "固定成员、固定团队",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376327134298",
+          "user": "0",
+          "date": "2021-12-02T05:14:49.000Z",
+          "lang": "common",
+          "value": "고멤으로 줄여서 말할때는固メン\n고멤은 그냥 Gomem 이 낫지않을까요? 이름이다 보니.."
+        }
+      ],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-02T05:14:49.000Z",
+      "updated_date": "2021-12-02T05:14:49.000Z"
+    },
+    {
+      "term": "곽춘식",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "KwakChunsik",
+          "examples": []
+        },
+        "ja": {
+          "term": "クァク・チュンシク",
+          "examples": []
+        },
+        "zh": {
+          "term": "郭春植",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-14T05:51:59.000Z",
+      "updated_date": "2021-12-14T05:51:59.000Z"
+    },
+    {
+      "term": "광고 is crazy",
+      "definition": "광고가 너무 많은 것을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Too many ads",
+          "examples": []
+        },
+        "ja": {
+          "term": "広告 is crazy",
+          "examples": []
+        },
+        "zh": {
+          "term": "广告太多",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376332338313",
+          "user": "0",
+          "date": "2021-12-20T11:20:40.000Z",
+          "lang": "common",
+          "value": "日）굳이 와로타 안해도 될듯"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-20T11:20:40.000Z",
+      "updated_date": "2021-12-20T11:20:40.000Z"
+    },
+    {
+      "term": "구구루빙봉",
+      "definition": "\"쿠쿠루삥뽕\"을 모두 평음으로 바꾼 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Gugurubingbong",
+          "examples": []
+        },
+        "ja": {
+          "term": "ググルビンボン",
+          "examples": []
+        },
+        "zh": {
+          "term": "咕咕噜兵咚",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2022-01-15T08:45:16.000Z",
+      "updated_date": "2022-01-15T08:45:16.000Z"
+    },
+    {
+      "term": "권민",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Kwonmin\n\n",
+          "examples": []
+        },
+        "ja": {
+          "term": "クォンミン",
+          "examples": []
+        },
+        "zh": {
+          "term": "权民",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-14T05:41:29.000Z",
+      "updated_date": "2021-12-14T05:41:29.000Z"
+    },
+    {
+      "term": "그림판",
+      "definition": "무언가 그릴 수 있는 배경을 의미, 주로 윈도우 내장 그림판 프로그램을 이르는 말로 쓰임",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Paint",
+          "examples": []
+        },
+        "ja": {
+          "term": "ペイント",
+          "examples": []
+        },
+        "zh": {
+          "term": "画图板",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376333132323",
+          "user": "0",
+          "date": "2022-02-10T07:57:12.000Z",
+          "lang": "common",
+          "value": "Windows 그림판"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-10T07:57:12.000Z",
+      "updated_date": "2022-02-10T07:57:12.000Z"
+    },
+    {
+      "term": "기대컨",
+      "definition": "기대 + 컨트롤, 과도한 기대를 자제하라는 말로 쓰임",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "期待値コントロール",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-18T05:21:59.000Z",
+      "updated_date": "2022-02-18T05:21:59.000Z"
+    },
+    {
+      "term": "길햇님송이",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Gil-Haetnimsongi",
+          "examples": []
+        },
+        "ja": {
+          "term": "ギルヘニムソンイ",
+          "examples": []
+        },
+        "zh": {
+          "term": "吉太阳宋伊",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2022-01-14T14:43:46.000Z",
+      "updated_date": "2022-01-14T14:43:46.000Z"
+    },
+    {
+      "term": "김치만두번영택사스가",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Kimchi mandu",
+          "examples": []
+        },
+        "ja": {
+          "term": "キムチまんバーンヨンタクさすが",
+          "examples": []
+        },
+        "zh": {
+          "term": "辣白菜饺子",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:28:29.000Z",
+      "updated_date": "2021-12-13T13:28:29.000Z"
+    },
+    {
+      "term": "까딱까딱",
+      "definition": "가드락거리는 모양",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "カタカタ",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336293264",
+          "user": "0",
+          "date": "2022-02-09T09:09:09.000Z",
+          "lang": "common",
+          "value": "Ex) 응원봉을 까딱까딱 흔들다"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-09T09:09:09.000Z",
+      "updated_date": "2022-02-09T09:09:09.000Z"
+    },
+    {
+      "term": "끼부리다",
+      "definition": "이성과 함부로 사귀거나 관계를 맺는 경향이나 태도",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "媚びる",
+          "examples": []
+        },
+        "zh": {
+          "term": "卖萌/撒娇",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376334361462",
+          "user": "0",
+          "date": "2022-02-06T06:34:37.000Z",
+          "lang": "common",
+          "value": "좀더 나은 표현있으시면 수정 부탁"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-06T06:34:37.000Z",
+      "updated_date": "2022-02-06T06:34:37.000Z"
+    },
+    {
+      "term": "나대지마",
+      "definition": "아무 곳에서나 멋대로 행동하다",
+      "alias": [
+        "깝치지마"
+      ],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ふざけるな、調子に乗るな",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-06T06:36:00.000Z",
+      "updated_date": "2022-02-06T06:36:00.000Z"
+    },
+    {
+      "term": "날먹",
+      "definition": "날로 먹다. 힘을 들이지 아니하고 일을 해내거나 어떤 것을 차지하는 것을 낮잡아 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "燥ぎ過ぎ、ただ乗り、無賃乗車",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336671815",
+          "user": "0",
+          "date": "2022-02-06T03:56:49.000Z",
+          "lang": "common",
+          "value": "해당 단어들 중 상황에 맞는 것으로 선택 바랍니다"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-06T03:56:49.000Z",
+      "updated_date": "2022-02-06T03:56:49.000Z"
+    },
+    {
+      "term": "노가리",
+      "definition": "수다나 거짓말을 속되게 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Just Chatting",
+          "examples": []
+        },
+        "ja": {
+          "term": "雑談",
+          "examples": []
+        },
+        "zh": {
+          "term": "闲聊/唠嗑",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-16T01:47:13.000Z",
+      "updated_date": "2022-01-16T01:47:13.000Z"
+    },
+    {
+      "term": "노래뱅",
+      "definition": "노래 + 방송. 노래하는 방송",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Karaoke Stream",
+          "examples": []
+        },
+        "ja": {
+          "term": "歌枠",
+          "examples": []
+        },
+        "zh": {
+          "term": "唱歌直播",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-07T10:49:50.000Z",
+      "updated_date": "2021-12-07T10:49:50.000Z"
+    },
+    {
+      "term": "누나구",
+      "definition": "누나 같은 모습을 보이는 고세구",
+      "alias": [
+        "눈나구"
+      ],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "アネグ",
+          "examples": []
+        },
+        "zh": {
+          "term": "姐姐固/御姐固",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2022-01-22T12:10:06.000Z",
+      "updated_date": "2022-01-22T12:10:06.000Z"
+    },
+    {
+      "term": "느그-",
+      "definition": "너희. 주로 기대에 반하는 행위를 하는 대상에게 사용하는 부정적인 의미",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ヌグ*",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376341271667",
+          "user": "0",
+          "date": "2022-02-10T05:58:56.000Z",
+          "lang": "common",
+          "value": "해당인물이 못했을 때 사용하는 접두어"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-10T05:58:56.000Z",
+      "updated_date": "2022-02-10T05:58:56.000Z"
+    },
+    {
+      "term": "느그네",
+      "definition": "느그- + 아이네",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Neugeu-ne",
+          "examples": []
+        },
+        "ja": {
+          "term": "ヌグネ",
+          "examples": []
+        },
+        "zh": {
+          "term": "你们娞（你们的爱娞）",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376334479974",
+          "user": "0",
+          "date": "2021-12-27T16:58:21.000Z",
+          "lang": "common",
+          "value": "자칫 \"네구네\"로 읽힐 수 있기에.."
+        }
+      ],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-12-27T16:58:21.000Z",
+      "updated_date": "2021-12-27T16:58:21.000Z"
+    },
+    {
+      "term": "다롱이",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Darongi",
+          "examples": []
+        },
+        "ja": {
+          "term": "ダロンイ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2022-01-14T14:44:21.000Z",
+      "updated_date": "2022-01-14T14:44:21.000Z"
+    },
+    {
+      "term": "단답벌레",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Dandap-bug",
+          "examples": []
+        },
+        "ja": {
+          "term": "短答虫",
+          "examples": []
+        },
+        "zh": {
+          "term": "简答虫",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2022-02-07T08:38:52.000Z",
+      "updated_date": "2022-02-07T08:38:52.000Z"
+    },
+    {
+      "term": "닼발",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Dakbal",
+          "examples": []
+        },
+        "ja": {
+          "term": "ダックバル",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376341849317",
+          "user": "0",
+          "date": "2022-03-07T13:37:20.000Z",
+          "lang": "common",
+          "value": "닼발님"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-03-07T13:37:20.000Z",
+      "updated_date": "2022-03-07T13:37:20.000Z"
+    },
+    {
+      "term": "도네",
+      "definition": "후원",
+      "alias": [
+        "도네이션"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Donation",
+          "examples": []
+        },
+        "ja": {
+          "term": "ドネーション",
+          "examples": []
+        },
+        "zh": {
+          "term": "打赏",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-29T18:53:23.000Z",
+      "updated_date": "2021-12-29T18:53:23.000Z"
+    },
+    {
+      "term": "도파민박사",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Dr. Dopamine",
+          "examples": []
+        },
+        "ja": {
+          "term": "ドパミン博士",
+          "examples": []
+        },
+        "zh": {
+          "term": "多巴胺博士",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:28:06.000Z",
+      "updated_date": "2021-12-13T13:28:06.000Z"
+    },
+    {
+      "term": "독고혜지",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "(Dokgo) Hye Ji",
+          "examples": []
+        },
+        "ja": {
+          "term": "(ドッゴ) ヒェジ",
+          "examples": []
+        },
+        "zh": {
+          "term": "独孤海季",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:37:30.000Z",
+      "updated_date": "2021-12-13T13:37:30.000Z"
+    },
+    {
+      "term": "동생즈",
+      "definition": "나이가 어린 멤버 (비챤, 고세구) 를 이르는 말",
+      "alias": [
+        "막내즈"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Maknaes",
+          "examples": []
+        },
+        "ja": {
+          "term": "妹ズ",
+          "examples": []
+        },
+        "zh": {
+          "term": "妹妹团",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-15T08:44:43.000Z",
+      "updated_date": "2022-01-15T08:44:43.000Z"
+    },
+    {
+      "term": "되는 사람",
+      "definition": "무언가 이룬 것이 있는 사람",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "出来た人",
+          "examples": []
+        },
+        "zh": {
+          "term": "天选之子",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376335819248",
+          "user": "0",
+          "date": "2022-02-06T06:48:22.000Z",
+          "lang": "common",
+          "value": "Ex) 얘! 너 뭐 되는 사람이니!?"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-06T06:48:22.000Z",
+      "updated_date": "2022-02-06T06:48:22.000Z"
+    },
+    {
+      "term": "똥강아지",
+      "definition": "징버거의 팬",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "DdongGangazi",
+          "examples": []
+        },
+        "ja": {
+          "term": "ワンちゃん",
+          "examples": []
+        },
+        "zh": {
+          "term": "拉屎狗",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2021-11-27T21:44:17.000Z",
+      "updated_date": "2021-11-27T21:44:17.000Z"
+    },
+    {
+      "term": "똥겜",
+      "definition": "똥 게임. 대충 만들어진 게임을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Trash game",
+          "examples": []
+        },
+        "ja": {
+          "term": "クソゲー",
+          "examples": []
+        },
+        "zh": {
+          "term": "烂游",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-15T16:58:07.000Z",
+      "updated_date": "2022-01-15T16:58:07.000Z"
+    },
+    {
+      "term": "뚜루따뚜루",
+      "definition": "릴파가 준비한 컨텐츠에서 유래된 말. ",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "DDURU DDA DDURU",
+          "examples": []
+        },
+        "ja": {
+          "term": "トゥルッタトゥル",
+          "examples": []
+        },
+        "zh": {
+          "term": "突路它突路",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-28T08:31:35.000Z",
+      "updated_date": "2021-11-28T08:31:35.000Z"
+    },
+    {
+      "term": "ㄹㅇㅋㅋ",
+      "definition": "리얼 ㅋㅋ",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "リアルｗｗ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-11T08:20:00.000Z",
+      "updated_date": "2022-02-11T08:20:00.000Z"
+    },
+    {
+      "term": "라고 할뻔~",
+      "definition": "실언을 무마하기 위해 쓰는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Gotcha~ / Just Kidding~",
+          "examples": []
+        },
+        "ja": {
+          "term": "なんちゃって〜、とかいって",
+          "examples": []
+        },
+        "zh": {
+          "term": "开玩笑的",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-04T10:22:21.000Z",
+      "updated_date": "2021-12-04T10:22:21.000Z"
+    },
+    {
+      "term": "래요~",
+      "definition": "'-래'에 보조사 '요'가 결합한 말.",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "らしいですよ〜",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376337029257",
+          "user": "0",
+          "date": "2022-02-07T06:11:24.000Z",
+          "lang": "common",
+          "value": "Ex) 158cm래요~ / 좀더 나은 표현있으시면 수정 부탁"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-07T06:11:24.000Z",
+      "updated_date": "2022-02-07T06:11:24.000Z"
+    },
+    {
+      "term": "레게노",
+      "definition": "레전드",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "レゲノ",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376340426442",
+          "user": "0",
+          "date": "2022-03-12T09:48:17.000Z",
+          "lang": "common",
+          "value": "日)일단 발음 그대로 적었습니다."
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-03-12T09:48:17.000Z",
+      "updated_date": "2022-03-12T09:48:17.000Z"
+    },
+    {
+      "term": "뢴르르",
+      "definition": "뢴트게늄 + 주르르 (폐지)",
+      "alias": [
+        "뢴버거"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Roen-Ruru / Roen-Burger",
+          "examples": []
+        },
+        "ja": {
+          "term": "レンルル／レンバーガー",
+          "examples": []
+        },
+        "zh": {
+          "term": "錀日日/錀堡歌",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-19T02:52:35.000Z",
+      "updated_date": "2021-12-19T02:52:35.000Z"
+    },
+    {
+      "term": "뢴트게늄",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Roentgenium",
+          "examples": []
+        },
+        "ja": {
+          "term": "レントゲニウム",
+          "examples": []
+        },
+        "zh": {
+          "term": "錀特",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-11-27T12:35:16.000Z",
+      "updated_date": "2021-11-27T12:35:16.000Z"
+    },
+    {
+      "term": "르르땅",
+      "definition": "주르르 + 쨩 (일본어 호칭 접미어) -> 땅",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Ruru-ddang",
+          "examples": []
+        },
+        "ja": {
+          "term": "ルルタン",
+          "examples": []
+        },
+        "zh": {
+          "term": "日日酱",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "주르르"
+      ],
+      "registered_date": "2021-12-07T11:15:28.000Z",
+      "updated_date": "2021-12-07T11:15:28.000Z"
+    },
+    {
+      "term": "릴파",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Lilpa",
+          "examples": []
+        },
+        "ja": {
+          "term": "リルパ",
+          "examples": []
+        },
+        "zh": {
+          "term": "丽儿怕",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T12:35:14.000Z",
+      "updated_date": "2021-11-27T12:35:14.000Z"
+    },
+    {
+      "term": "릴파 극장",
+      "definition": "릴파 유튜브 컨텐츠 이름",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Lilpa Theater",
+          "examples": []
+        },
+        "ja": {
+          "term": "リルパシアター",
+          "examples": []
+        },
+        "zh": {
+          "term": "丽儿怕剧场",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-12-13T12:38:42.000Z",
+      "updated_date": "2021-12-13T12:38:42.000Z"
+    },
+    {
+      "term": "릴파넴",
+      "definition": "릴파 + 님 -> 넴",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Lilpa-nim",
+          "examples": []
+        },
+        "ja": {
+          "term": "リルパしゃん",
+          "examples": []
+        },
+        "zh": {
+          "term": "丽儿怕",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-12-19T15:41:13.000Z",
+      "updated_date": "2021-12-19T15:41:13.000Z"
+    },
+    {
+      "term": "릴파형동검",
+      "definition": "비파형 동검. 유래는 [여기 참조](https://cafe.naver.com/steamindiegame/3615078)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Lilpa-hyeong Dong-gum",
+          "examples": []
+        },
+        "ja": {
+          "term": "リルパ形銅劍",
+          "examples": []
+        },
+        "zh": {
+          "term": "丽儿怕形铜剑",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:10:31.000Z",
+      "updated_date": "2021-11-27T13:10:31.000Z"
+    },
+    {
+      "term": "릴하",
+      "definition": "릴파 + 하이",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "リルハ",
+          "examples": []
+        },
+        "zh": {
+          "term": "丽儿hi",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376334931930",
+          "user": "0",
+          "date": "2022-02-10T08:32:23.000Z",
+          "lang": "common",
+          "value": "릴파 하이"
+        }
+      ],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2022-02-10T08:32:23.000Z",
+      "updated_date": "2022-02-10T08:32:23.000Z"
+    },
+    {
+      "term": "릴하다",
+      "definition": "야한 것을 돌려 이르는 말",
+      "alias": [
+        "릴해!"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "N/A - 릴해! 참고",
+          "examples": []
+        },
+        "ja": {
+          "term": "リルイ",
+          "examples": []
+        },
+        "zh": {
+          "term": "丽儿妖",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336133301",
+          "user": "0",
+          "date": "2021-12-20T23:45:05.000Z",
+          "lang": "common",
+          "value": "日）エロイ를 リルイ로 대충 한거라 좋은거 있으면 추후 수정바람"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-20T23:45:05.000Z",
+      "updated_date": "2021-12-20T23:45:05.000Z"
+    },
+    {
+      "term": "릴해!",
+      "definition": "야한 것을 돌려 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "S-Lil-zy!",
+          "examples": []
+        },
+        "ja": {
+          "term": "リルイ！",
+          "examples": []
+        },
+        "zh": {
+          "term": "丽儿妖！",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-12-18T14:55:53.000Z",
+      "updated_date": "2021-12-18T14:55:53.000Z"
+    },
+    {
+      "term": "릴호이",
+      "definition": "호쇼해적단 \"아호이\" + 릴파",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Lilhoy",
+          "examples": []
+        },
+        "ja": {
+          "term": "リルホイ！",
+          "examples": []
+        },
+        "zh": {
+          "term": "丽儿hoy",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:11:30.000Z",
+      "updated_date": "2021-11-27T13:11:30.000Z"
+    },
+    {
+      "term": "마네쟈",
+      "definition": "매니저",
+      "alias": [
+        "뢴매니저"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Manager / Roent Manager",
+          "examples": []
+        },
+        "ja": {
+          "term": "マネージャー／レンマネージャー",
+          "examples": []
+        },
+        "zh": {
+          "term": "经理人 / 伦经理人",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336586876",
+          "user": "0",
+          "date": "2022-01-14T14:44:35.000Z",
+          "lang": "common",
+          "value": "영어에서 타이틀이 이름 앞에 나오는게 일반적이라 매니저 뢴 이라고 쓰는게 맞지않을까요?"
+        }
+      ],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2022-01-14T14:44:35.000Z",
+      "updated_date": "2022-01-14T14:44:35.000Z"
+    },
+    {
+      "term": "마인크래프트",
+      "definition": "게임",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Minecraft",
+          "examples": []
+        },
+        "ja": {
+          "term": "マインクラフト",
+          "examples": []
+        },
+        "zh": {
+          "term": "我的世界",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-29T02:51:07.000Z",
+      "updated_date": "2021-11-29T02:51:07.000Z"
+    },
+    {
+      "term": "마크",
+      "definition": "마인크래프트를 짧게 줄여쓴 단어",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "MC",
+          "examples": []
+        },
+        "ja": {
+          "term": "マイクラ",
+          "examples": []
+        },
+        "zh": {
+          "term": "我的世界/MC ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-29T02:51:35.000Z",
+      "updated_date": "2021-11-29T02:51:35.000Z"
+    },
+    {
+      "term": "말넘심",
+      "definition": "말이 너무 심하다.",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "言葉ひどすぎ",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376334386448",
+          "user": "0",
+          "date": "2022-02-06T03:51:43.000Z",
+          "lang": "common",
+          "value": "좀더 나은 표현있으시면 수정 부탁"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-06T03:51:43.000Z",
+      "updated_date": "2022-02-06T03:51:43.000Z"
+    },
+    {
+      "term": "망령",
+      "definition": "망령 멤버를 뜻하는 단어",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Forsaken",
+          "examples": []
+        },
+        "ja": {
+          "term": "亡霊",
+          "examples": []
+        },
+        "zh": {
+          "term": "亡灵",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-14T12:21:09.000Z",
+      "updated_date": "2021-12-14T12:21:09.000Z"
+    },
+    {
+      "term": "매 *",
+      "definition": "팔 매 (賣)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Anti / Mae-",
+          "examples": []
+        },
+        "ja": {
+          "term": "売*",
+          "examples": []
+        },
+        "zh": {
+          "term": "卖*",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376337781224",
+          "user": "0",
+          "date": "2021-12-07T03:03:38.000Z",
+          "lang": "common",
+          "value": "Ex) 매굳"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-07T03:03:38.000Z",
+      "updated_date": "2021-12-07T03:03:38.000Z"
+    },
+    {
+      "term": "매릴",
+      "definition": "매 (賣) + 릴파",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Mae-Lil 또는 anti",
+          "examples": []
+        },
+        "ja": {
+          "term": "売リル",
+          "examples": []
+        },
+        "zh": {
+          "term": "卖丽儿",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336796989",
+          "user": "0",
+          "date": "2021-11-27T13:13:36.000Z",
+          "lang": "common",
+          "value": "\"매릴들 정신이 들어?\" 같이 사람으로 쓰일때는 Mae-Lil, \"매릴 88%\" 같이 토토 결과로 쓰일때는 anti 로 번역"
+        }
+      ],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:13:36.000Z",
+      "updated_date": "2021-11-27T13:13:36.000Z"
+    },
+    {
+      "term": "메인 보컬",
+      "definition": "메인 보컬리스트",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Main Vocalist(s)",
+          "examples": []
+        },
+        "ja": {
+          "term": "メインボーカル",
+          "examples": []
+        },
+        "zh": {
+          "term": "主唱",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-20T11:23:14.000Z",
+      "updated_date": "2021-12-20T11:23:14.000Z"
+    },
+    {
+      "term": "모시깽이",
+      "definition": "무언가를 지칭하는 사투리 표현",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Something/Mossikkaengi",
+          "examples": []
+        },
+        "ja": {
+          "term": "何様 / まぁなんや",
+          "examples": []
+        },
+        "zh": {
+          "term": "神马东东",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336302878",
+          "user": "0",
+          "date": "2021-11-29T02:54:40.000Z",
+          "lang": "common",
+          "value": "모시깽이, 머시깽이, 뭐시깽이는 잘 기억나지 않는 무언가, 무엇을 지칭하는 사투리 표현입니다.\n日）まぁなんや가 何かしら보다 친근한 사투리느낌\n나니카시라는 교토벤이라 고급져서 아닌거 같습니다"
+        }
+      ],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2021-11-29T02:54:40.000Z",
+      "updated_date": "2021-11-29T02:54:40.000Z"
+    },
+    {
+      "term": "몰?루",
+      "definition": "모른다를 귀엽게 표현한 단어",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Don't?Know",
+          "examples": []
+        },
+        "ja": {
+          "term": "知?らん",
+          "examples": []
+        },
+        "zh": {
+          "term": "不?知道",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-01T12:20:13.000Z",
+      "updated_date": "2021-12-01T12:20:13.000Z"
+    },
+    {
+      "term": "몽탱이",
+      "definition": "묶음의 사투리.",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "zh": {
+          "term": "一大堆",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2022-01-29T09:14:22.000Z",
+      "updated_date": "2022-01-29T09:14:22.000Z"
+    },
+    {
+      "term": "무7련",
+      "definition": "무친련 -> 미친년의 순화말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Cr47y",
+          "examples": []
+        },
+        "ja": {
+          "term": "あたOか",
+          "examples": []
+        },
+        "zh": {
+          "term": "疯子",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376340749886",
+          "user": "0",
+          "date": "2021-12-02T05:41:12.000Z",
+          "lang": "common",
+          "value": "일)무7련 비슷하게 알파벳 넣어서 알잘딱했읍니다"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-02T05:41:12.000Z",
+      "updated_date": "2021-12-02T05:41:12.000Z"
+    },
+    {
+      "term": "무지성",
+      "definition": "아무 생각 없이",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Mindless",
+          "examples": []
+        },
+        "ja": {
+          "term": "脳筋 / 考えなし",
+          "examples": []
+        },
+        "zh": {
+          "term": "无知性",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376338705072",
+          "user": "0",
+          "date": "2022-01-16T09:27:03.000Z",
+          "lang": "common",
+          "value": "영어 - 기본형에서 알잘딱 변형"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-16T09:27:03.000Z",
+      "updated_date": "2022-01-16T09:27:03.000Z"
+    },
+    {
+      "term": "물소",
+      "definition": "여자라는 이유로 특대하는 남자들을 낮잡아 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "カオナシ",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376338153451",
+          "user": "0",
+          "date": "2022-03-20T09:15:01.000Z",
+          "lang": "common",
+          "value": "Ex)물소킴"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-03-20T09:15:01.000Z",
+      "updated_date": "2022-03-20T09:15:01.000Z"
+    },
+    {
+      "term": "미츠네 하쿠",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Mitsune Haku",
+          "examples": []
+        },
+        "ja": {
+          "term": "ミツネ ハク",
+          "examples": []
+        },
+        "zh": {
+          "term": "蜜次内 哈库",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:37:47.000Z",
+      "updated_date": "2021-12-13T13:37:47.000Z"
+    },
+    {
+      "term": "바람 풍",
+      "definition": "풍신의 대사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Wind Splash",
+          "examples": []
+        },
+        "ja": {
+          "term": "かぜフウ",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376342291621",
+          "user": "0",
+          "date": "2022-01-08T08:27:38.000Z",
+          "lang": "common",
+          "value": "フウ를 한자로 할까 고민했는데 카타카나로 했습니다"
+        }
+      ],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2022-01-08T08:27:38.000Z",
+      "updated_date": "2022-01-08T08:27:38.000Z"
+    },
+    {
+      "term": "바이네",
+      "definition": "바이바이 + 아이네",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Bye-ne",
+          "examples": []
+        },
+        "ja": {
+          "term": "バイネ",
+          "examples": []
+        },
+        "zh": {
+          "term": "拜娞",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-12-27T16:58:13.000Z",
+      "updated_date": "2021-12-27T16:58:13.000Z"
+    },
+    {
+      "term": "박쥐",
+      "definition": "릴파의 팬",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Bakjwi",
+          "examples": []
+        },
+        "ja": {
+          "term": "コウモリ / 박쥐단 = コウモリ団",
+          "examples": []
+        },
+        "zh": {
+          "term": "蝙蝠",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376334796825",
+          "user": "0",
+          "date": "2021-11-27T13:09:16.000Z",
+          "lang": "common",
+          "value": "박쥐 이외에도 팬덤 이름을 뜻으로 번역 or 그대로 발음 번역?"
+        }
+      ],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:09:16.000Z",
+      "updated_date": "2021-11-27T13:09:16.000Z"
+    },
+    {
+      "term": "방송",
+      "definition": "방송",
+      "alias": [
+        "생방송"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Stream",
+          "examples": []
+        },
+        "ja": {
+          "term": "配信 / ライブ配信",
+          "examples": []
+        },
+        "zh": {
+          "term": "直播",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-09T07:49:03.000Z",
+      "updated_date": "2021-12-09T07:49:03.000Z"
+    },
+    {
+      "term": "방송종료",
+      "alias": [
+        "방종"
+      ],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "配信終了",
+          "examples": []
+        },
+        "zh": {
+          "term": "直播结束/下播",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-08T06:32:38.000Z",
+      "updated_date": "2022-02-08T06:32:38.000Z"
+    },
+    {
+      "term": "방플",
+      "definition": "방송 플레이. 방송을 틀어놓고 스트리머와 같은 게임에 참여하여 혼자 이득을 보는 행위를 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Stream sniping",
+          "examples": []
+        },
+        "ja": {
+          "term": "ゴースティング",
+          "examples": []
+        },
+        "zh": {
+          "term": "看直播",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-20T11:19:46.000Z",
+      "updated_date": "2021-12-20T11:19:46.000Z"
+    },
+    {
+      "term": "뱅온",
+      "definition": "방송 ON",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "配信スタート",
+          "examples": []
+        },
+        "zh": {
+          "term": "开播",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336695392",
+          "user": "0",
+          "date": "2022-03-06T15:15:35.000Z",
+          "lang": "common",
+          "value": "방송 시작"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-03-06T15:15:35.000Z",
+      "updated_date": "2022-03-06T15:15:35.000Z"
+    },
+    {
+      "term": "부정형인간",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Bujungman",
+          "examples": []
+        },
+        "ja": {
+          "term": "否定型人間",
+          "examples": []
+        },
+        "zh": {
+          "term": "否定型人",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:37:29.000Z",
+      "updated_date": "2021-12-13T13:37:29.000Z"
+    },
+    {
+      "term": "비둘기",
+      "definition": "아이네의 팬",
+      "alias": [
+        "둘기"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Bidulgi",
+          "examples": []
+        },
+        "ja": {
+          "term": "ハト",
+          "examples": []
+        },
+        "zh": {
+          "term": "鸽子团",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-11-27T21:44:25.000Z",
+      "updated_date": "2021-11-27T21:44:25.000Z"
+    },
+    {
+      "term": "비밀소녀",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Secretto",
+          "examples": []
+        },
+        "ja": {
+          "term": "秘密少女",
+          "examples": []
+        },
+        "zh": {
+          "term": "秘密少女",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:28:15.000Z",
+      "updated_date": "2021-12-13T13:28:15.000Z"
+    },
+    {
+      "term": "비즈니스 킴",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Business Kim",
+          "examples": []
+        },
+        "ja": {
+          "term": "ビジネス・キム",
+          "examples": []
+        },
+        "zh": {
+          "term": "比则尼色金",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T14:55:56.000Z",
+      "updated_date": "2021-12-13T14:55:56.000Z"
+    },
+    {
+      "term": "비챤",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "VIichan",
+          "examples": []
+        },
+        "ja": {
+          "term": "ゔぃちゃん",
+          "examples": []
+        },
+        "zh": {
+          "term": "必婵",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376340352029",
+          "user": "0",
+          "date": "2021-11-27T12:33:30.000Z",
+          "lang": "common",
+          "value": "비챤님 오피셜 표기법입니다. 위챤이라고 나오는건 버그입니다!!"
+        }
+      ],
+      "tags": [
+        "비챤"
+      ],
+      "registered_date": "2021-11-27T12:33:30.000Z",
+      "updated_date": "2021-11-27T12:33:30.000Z"
+    },
+    {
+      "term": "비파형동검",
+      "definition": "릴파형 동검의 원어로 사용, 유래는 [여기 참조](https://cafe.naver.com/steamindiegame/3615078)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Bipa-hyeong Dong-gum",
+          "examples": []
+        },
+        "ja": {
+          "term": "琵琶形銅剣(びわがたどうけん)",
+          "examples": []
+        },
+        "zh": {
+          "term": "琵琶形铜剑",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376339897689",
+          "user": "0",
+          "date": "2021-11-27T13:09:28.000Z",
+          "lang": "common",
+          "value": "(영) 직역하면 Lute-Shaped Bronze Dagger 이지만 밈화되서 사용될 때는 음차해서 번역하는게 나을 것 같습니다"
+        }
+      ],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:09:28.000Z",
+      "updated_date": "2021-11-27T13:09:28.000Z"
+    },
+    {
+      "term": "빙그르르",
+      "definition": "빙글빙글 + 주르르",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Spin-ruru",
+          "examples": []
+        },
+        "ja": {
+          "term": "ぐるぐルル",
+          "examples": []
+        },
+        "zh": {
+          "term": "转日日",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "주르르"
+      ],
+      "registered_date": "2021-12-11T05:09:28.000Z",
+      "updated_date": "2021-12-11T05:09:28.000Z"
+    },
+    {
+      "term": "빠큐",
+      "definition": "뻐큐의 약간 순화말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Fork you",
+          "examples": []
+        },
+        "ja": {
+          "term": "パァックユー",
+          "examples": []
+        },
+        "zh": {
+          "term": "法克鱿",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-02T06:42:19.000Z",
+      "updated_date": "2022-01-02T06:42:19.000Z"
+    },
+    {
+      "term": "뿡세구",
+      "definition": "방구 + 세구",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "プーセグ",
+          "examples": []
+        },
+        "zh": {
+          "term": "噗赛固",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2022-01-20T00:18:28.000Z",
+      "updated_date": "2022-01-20T00:18:28.000Z"
+    },
+    {
+      "term": "사기",
+      "definition": "못된 꾀로 남을 속이는 것",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "OP",
+          "examples": []
+        },
+        "ja": {
+          "term": "チート ",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376335972660",
+          "user": "0",
+          "date": "2022-02-06T03:26:22.000Z",
+          "lang": "common",
+          "value": "게임에서 사기캐릭을 표현할 때 \n영어 - 오버파워 줄여서 op 로 사기캐/능력 같은거 표현할때 사용합니다"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-06T03:26:22.000Z",
+      "updated_date": "2022-02-06T03:26:22.000Z"
+    },
+    {
+      "term": "상현",
+      "definition": "고정 멤버에서 인기가 많은 상위 멤버를 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Upper ranks",
+          "examples": []
+        },
+        "ja": {
+          "term": "上弦",
+          "examples": []
+        },
+        "zh": {
+          "term": "上弦",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-09T07:47:16.000Z",
+      "updated_date": "2021-12-09T07:47:16.000Z"
+    },
+    {
+      "term": "상황극 컨테스트",
+      "definition": "VRChat에서 진행하는 컨텐츠 이름.",
+      "alias": [
+        "상컨"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Roleplaying contest / RPC",
+          "examples": []
+        },
+        "ja": {
+          "term": "コントコンテスト / コントコン（テスト）",
+          "examples": []
+        },
+        "zh": {
+          "term": "情景剧",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376341733242",
+          "user": "0",
+          "date": "2022-02-14T10:49:52.000Z",
+          "lang": "common",
+          "value": "상컨이라고 2회 이상 말할 경우, 괄호 안의 뒷글자를 제거하는 방향으로 진행"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-14T10:49:52.000Z",
+      "updated_date": "2022-02-14T10:49:52.000Z"
+    },
+    {
+      "term": "새우튀김",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Fried Shrimp",
+          "examples": []
+        },
+        "ja": {
+          "term": "えび天",
+          "examples": []
+        },
+        "zh": {
+          "term": "油炸大虾",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:37:20.000Z",
+      "updated_date": "2021-12-13T13:37:20.000Z"
+    },
+    {
+      "term": "세구땅",
+      "definition": "세구 + 쨩 (일본어 호칭 접미어) -> 땅",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Segu-ddan",
+          "examples": []
+        },
+        "ja": {
+          "term": "セグたん",
+          "examples": []
+        },
+        "zh": {
+          "term": "赛固酱",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2022-01-17T21:36:51.000Z",
+      "updated_date": "2022-01-17T21:36:51.000Z"
+    },
+    {
+      "term": "세균",
+      "definition": "고세구의 팬",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Segyun",
+          "examples": []
+        },
+        "ja": {
+          "term": "발음 = セギュン / 직역 = 細菌",
+          "examples": []
+        },
+        "zh": {
+          "term": "细菌",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2021-11-27T21:44:22.000Z",
+      "updated_date": "2021-11-27T21:44:22.000Z"
+    },
+    {
+      "term": "세균단",
+      "definition": "고세구의 팬덤",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Segyun-dan",
+          "examples": []
+        },
+        "ja": {
+          "term": "발음 = / 細菌団",
+          "examples": []
+        },
+        "zh": {
+          "term": "细菌团",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2021-11-29T08:42:35.000Z",
+      "updated_date": "2021-11-29T08:42:35.000Z"
+    },
+    {
+      "term": "섹큐버스",
+      "definition": "섹시 + 큐티 + 서큐버스",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Seccubus",
+          "examples": []
+        },
+        "ja": {
+          "term": "セッキュバス",
+          "examples": []
+        },
+        "zh": {
+          "term": "色固魅魔",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376339327461",
+          "user": "0",
+          "date": "2021-12-02T06:16:07.000Z",
+          "lang": "common",
+          "value": "sexcubus 는 좀... 아이도루 다까라"
+        }
+      ],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2021-12-02T06:16:07.000Z",
+      "updated_date": "2021-12-02T06:16:07.000Z"
+    },
+    {
+      "term": "셜파홈즈",
+      "definition": "릴파 + 셜록 홈즈",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Sherlpa Holmes",
+          "examples": []
+        },
+        "ja": {
+          "term": "シャールパーホームズ",
+          "examples": []
+        },
+        "zh": {
+          "term": "侦探丽儿怕",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:11:17.000Z",
+      "updated_date": "2021-11-27T13:11:17.000Z"
+    },
+    {
+      "term": "소피아",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Sophia",
+          "examples": []
+        },
+        "ja": {
+          "term": "ソフィア",
+          "examples": []
+        },
+        "zh": {
+          "term": "索菲亚",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:37:38.000Z",
+      "updated_date": "2021-12-13T13:37:38.000Z"
+    },
+    {
+      "term": "스킵안",
+      "definition": "무조건 건너뛰고 보는 행위를 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Skip mode",
+          "examples": []
+        },
+        "ja": {
+          "term": "スキップ眼",
+          "examples": []
+        },
+        "zh": {
+          "term": "跳过眼",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376341855377",
+          "user": "0",
+          "date": "2022-01-16T01:50:57.000Z",
+          "lang": "common",
+          "value": "영어 - 기본형에서 알잘딱 변형"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-16T01:50:57.000Z",
+      "updated_date": "2022-01-16T01:50:57.000Z"
+    },
+    {
+      "term": "스푼르르",
+      "definition": "스푼 형식 (저음)의 목소리를 내는 주르르를 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Spoon-ruru",
+          "examples": []
+        },
+        "ja": {
+          "term": "スプーンルル",
+          "examples": []
+        },
+        "zh": {
+          "term": "好听日日",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "주르르"
+      ],
+      "registered_date": "2021-12-29T17:28:40.000Z",
+      "updated_date": "2021-12-29T17:28:40.000Z"
+    },
+    {
+      "term": "시청자",
+      "definition": "방송을 시청하는 사람",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Viewer",
+          "examples": []
+        },
+        "ja": {
+          "term": "リスナー",
+          "examples": []
+        },
+        "zh": {
+          "term": "观众",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-15T01:52:05.000Z",
+      "updated_date": "2021-12-15T01:52:05.000Z"
+    },
+    {
+      "term": "썰",
+      "definition": "말을 뜻하는 설(說)이라는 한자에서 유래된 단어, 이야기라는 뜻으로 사용함",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Story",
+          "examples": []
+        },
+        "ja": {
+          "term": "話",
+          "examples": []
+        },
+        "zh": {
+          "term": "讲故事",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376339976402",
+          "user": "0",
+          "date": "2021-12-07T10:49:48.000Z",
+          "lang": "common",
+          "value": "Anecdote 도 썰에 가깝습니다!"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-07T10:49:48.000Z",
+      "updated_date": "2021-12-07T10:49:48.000Z"
+    },
+    {
+      "term": "씹덕",
+      "definition": "오타쿠의 멸칭",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Weeb",
+          "examples": []
+        },
+        "ja": {
+          "term": "劇オタ",
+          "examples": []
+        },
+        "zh": {
+          "term": "御宅",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376334628737",
+          "user": "0",
+          "date": "2021-12-20T11:21:30.000Z",
+          "lang": "common",
+          "value": "Weaboo 에서 나온 말입니다"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-20T11:21:30.000Z",
+      "updated_date": "2021-12-20T11:21:30.000Z"
+    },
+    {
+      "term": "아이네",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Ine",
+          "examples": []
+        },
+        "ja": {
+          "term": "アイネ",
+          "examples": []
+        },
+        "zh": {
+          "term": "爱娞",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-11-27T12:33:30.000Z",
+      "updated_date": "2021-11-27T12:33:30.000Z"
+    },
+    {
+      "term": "악질",
+      "definition": "못되고 나쁜 성질. 또는, 그런 사람",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "wicked/foul",
+          "examples": []
+        },
+        "ja": {
+          "term": "悪質",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-22T15:14:21.000Z",
+      "updated_date": "2022-01-22T15:14:21.000Z"
+    },
+    {
+      "term": "안티(팬)",
+      "definition": "반(反)이라는 뜻의 영어 접두사, 주로 반대 세력의 사람을 이름",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Hater(s)",
+          "examples": []
+        },
+        "ja": {
+          "term": "アンチ",
+          "examples": []
+        },
+        "zh": {
+          "term": "黑粉",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-20T11:26:34.000Z",
+      "updated_date": "2021-12-20T11:26:34.000Z"
+    },
+    {
+      "term": "알잘딱",
+      "definition": "알아서 잘 딱 깔끔하고 센스있게",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "AlJalDdak",
+          "examples": []
+        },
+        "ja": {
+          "term": "アルジャルタク",
+          "examples": []
+        },
+        "zh": {
+          "term": "自己看着好好做",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-06T08:55:27.000Z",
+      "updated_date": "2021-12-06T08:55:27.000Z"
+    },
+    {
+      "term": "애 *",
+      "definition": "사랑 애 (愛)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Pro / Ae-",
+          "examples": []
+        },
+        "ja": {
+          "term": "爱*",
+          "examples": []
+        },
+        "zh": {
+          "term": "爱*",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376339598650",
+          "user": "0",
+          "date": "2021-12-07T03:03:09.000Z",
+          "lang": "common",
+          "value": "Ex) 애굳\nPro- 가 좀 더 좋을거같아요"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-07T03:03:09.000Z",
+      "updated_date": "2021-12-07T03:03:09.000Z"
+    },
+    {
+      "term": "애기뺑띠",
+      "definition": "뺑띠",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Baby Chimpanzee",
+          "examples": []
+        },
+        "ja": {
+          "term": "赤ちゃんパンチー",
+          "examples": []
+        },
+        "zh": {
+          "term": "猩猩宝宝 ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-11T02:01:50.000Z",
+      "updated_date": "2022-02-11T02:01:50.000Z"
+    },
+    {
+      "term": "애릴",
+      "definition": "애 (愛) + 릴파",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Ae-Lil 또는 pro",
+          "examples": []
+        },
+        "ja": {
+          "term": "愛リル\n",
+          "examples": []
+        },
+        "zh": {
+          "term": "爱丽儿",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336749514",
+          "user": "0",
+          "date": "2021-11-27T13:13:26.000Z",
+          "lang": "common",
+          "value": "\"애릴들 정신이 들어?\" 같이 사람으로 쓰일때는 Ae-Lil, \"애릴 88%\" 같이 토토 결과로 쓰일때는 pro 로 번역"
+        }
+      ],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:13:26.000Z",
+      "updated_date": "2021-11-27T13:13:26.000Z"
+    },
+    {
+      "term": "야랄",
+      "definition": "지랄의 순화어",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Ya-ral",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2022-03-19T04:22:18.000Z",
+      "updated_date": "2022-03-19T04:22:18.000Z"
+    },
+    {
+      "term": "야발파",
+      "definition": "실수로 욕설을 쓰는 릴파를 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Yabal-pa",
+          "examples": []
+        },
+        "ja": {
+          "term": "シバルパ",
+          "examples": []
+        },
+        "zh": {
+          "term": "阿西怕",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376339502301",
+          "user": "0",
+          "date": "2021-12-17T11:08:24.000Z",
+          "lang": "common",
+          "value": "일)チクシルパ / チクショパ / シバルパ  중 고민 중"
+        }
+      ],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-12-17T11:08:24.000Z",
+      "updated_date": "2021-12-17T11:08:24.000Z"
+    },
+    {
+      "term": "언니",
+      "definition": "나이가 적은 쪽 여자에 대해 나이가 많은 쪽 여자를 이르거나 부르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Unnie",
+          "examples": []
+        },
+        "ja": {
+          "term": "姉さん",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-15T06:08:25.000Z",
+      "updated_date": "2022-01-15T06:08:25.000Z"
+    },
+    {
+      "term": "언니즈",
+      "definition": "언니's. 언니 멤버 (아이네, 징버거, 릴파) 를 이름",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Unnies",
+          "examples": []
+        },
+        "ja": {
+          "term": "姉さんズ",
+          "examples": []
+        },
+        "zh": {
+          "term": "姐姐团",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-15T08:44:36.000Z",
+      "updated_date": "2022-01-15T08:44:36.000Z"
+    },
+    {
+      "term": "언리얼파",
+      "definition": "Unreal Engine + 릴파. 언리얼 엔진으로 만들어진 릴파 아바타를 이름",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Unrealpa",
+          "examples": []
+        },
+        "ja": {
+          "term": "アンリアルパ",
+          "examples": []
+        },
+        "zh": {
+          "term": "虚幻怕",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:16:32.000Z",
+      "updated_date": "2021-11-27T13:16:32.000Z"
+    },
+    {
+      "term": "얼어죽을",
+      "definition": "못마땅하게 여겨 얼토당토않다는 뜻으로 하는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "とんでもない",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-07T05:20:36.000Z",
+      "updated_date": "2022-02-07T05:20:36.000Z"
+    },
+    {
+      "term": "엄준식",
+      "definition": "고유 명사. 아무런 할 말이 없을 때 사용하기도 함",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Um-Junsik",
+          "examples": []
+        },
+        "ja": {
+          "term": "オム·ジュンシク",
+          "examples": []
+        },
+        "zh": {
+          "term": "严俊植",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-20T11:25:24.000Z",
+      "updated_date": "2021-12-20T11:25:24.000Z"
+    },
+    {
+      "term": "역배",
+      "definition": "역 배팅",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Underdog (UD) / Under",
+          "examples": []
+        },
+        "ja": {
+          "term": "逆バッティング",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-30T05:28:21.000Z",
+      "updated_date": "2021-12-30T05:28:21.000Z"
+    },
+    {
+      "term": "영상",
+      "definition": "2차원 평면 위에 그려진 시각적 표현물을 가리킨다.",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Video\n",
+          "examples": []
+        },
+        "ja": {
+          "term": "動画",
+          "examples": []
+        },
+        "zh": {
+          "term": "视频",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-09T07:48:56.000Z",
+      "updated_date": "2021-12-09T07:48:56.000Z"
+    },
+    {
+      "term": "예미네",
+      "definition": "예민해 + 아이네",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ヤカマシイネ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2022-02-10T06:58:28.000Z",
+      "updated_date": "2022-02-10T06:58:28.000Z"
+    },
+    {
+      "term": "오뱅알",
+      "definition": "오늘 방송 알찼다",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "配信おつ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-07T05:19:26.000Z",
+      "updated_date": "2022-02-07T05:19:26.000Z"
+    },
+    {
+      "term": "오빠",
+      "definition": "나이가 적은 여자가 나이가 위인 남자를 가리켜 정다움을 나타내어 이르거나 부르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Oppa",
+          "examples": []
+        },
+        "ja": {
+          "term": "おにちゃん",
+          "examples": []
+        },
+        "zh": {
+          "term": "欧巴/哥哥/哥",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376340903510",
+          "user": "0",
+          "date": "2022-01-15T06:08:38.000Z",
+          "lang": "common",
+          "value": "중국어- 발음/뜻1/뜻2 상황 및 문장에 따라 알잘딱하게 사용"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-15T06:08:38.000Z",
+      "updated_date": "2022-01-15T06:08:38.000Z"
+    },
+    {
+      "term": "오영택",
+      "definition": "우왁굳의 본명",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Oh Young Taek",
+          "examples": []
+        },
+        "ja": {
+          "term": "オ·ヨンテク",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-15T12:34:29.000Z",
+      "updated_date": "2021-12-15T12:34:29.000Z"
+    },
+    {
+      "term": "왁물원",
+      "definition": "우왁굳 팬카페의 이름",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Wakmulwon",
+          "examples": []
+        },
+        "ja": {
+          "term": "ファンサイト",
+          "examples": []
+        },
+        "zh": {
+          "term": "哇物园",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376341387526",
+          "user": "0",
+          "date": "2021-11-27T15:25:59.000Z",
+          "lang": "common",
+          "value": "수정시 세부 정보 번역란의 왁물원 표기도 함께 수정해주세요"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-27T15:25:59.000Z",
+      "updated_date": "2021-11-27T15:25:59.000Z"
+    },
+    {
+      "term": "왁엔터",
+      "definition": "왁 엔터테인먼트",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Wak ENT",
+          "examples": []
+        },
+        "ja": {
+          "term": "WAKエンタ",
+          "examples": []
+        },
+        "zh": {
+          "term": "呜哇娱乐公司",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-21T14:33:06.000Z",
+      "updated_date": "2021-12-21T14:33:06.000Z"
+    },
+    {
+      "term": "왁컬로이드",
+      "definition": "우왁굳 + 보컬로이드. 목소리 한음한음을 따 만든 노래를 이르는 말로 사용됨",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ワッカロイド",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-07T08:40:37.000Z",
+      "updated_date": "2022-02-07T08:40:37.000Z"
+    },
+    {
+      "term": "왁타버스",
+      "definition": "고유 명사. 우왁굳 + 메타버스",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Waktaverse",
+          "examples": []
+        },
+        "ja": {
+          "term": "ワクタバース",
+          "examples": []
+        },
+        "zh": {
+          "term": "呜哇虚拟世界",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-11-27T15:27:50.000Z",
+      "updated_date": "2021-11-27T15:27:50.000Z"
+    },
+    {
+      "term": "왁파고",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "WakphaGo",
+          "examples": []
+        },
+        "ja": {
+          "term": "ワクファゴ",
+          "examples": []
+        },
+        "zh": {
+          "term": "呜哇尔法狗",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-14T09:18:20.000Z",
+      "updated_date": "2021-12-14T09:18:20.000Z"
+    },
+    {
+      "term": "왁핑몰",
+      "definition": "우왁굳 + 쇼핑몰. 마인크래프트 컨텐츠 이름",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ワッピングモール",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-17T09:07:48.000Z",
+      "updated_date": "2022-02-17T09:07:48.000Z"
+    },
+    {
+      "term": "왕겐세이",
+      "definition": "일본어 牽制, 견제를 뜻하는 단어",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Wanggensei",
+          "examples": []
+        },
+        "ja": {
+          "term": "ワン牽制",
+          "examples": []
+        },
+        "zh": {
+          "term": "王牽制",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376334357421",
+          "user": "0",
+          "date": "2021-12-14T16:29:29.000Z",
+          "lang": "common",
+          "value": "징버거님 밈중에 왕질투 왕겐세이 등등 왕~ 가 많은데 超로 의역하기보다는 ワン으로 바로나타내는게 좋을것 같습니다."
+        }
+      ],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2021-12-14T16:29:29.000Z",
+      "updated_date": "2021-12-14T16:29:29.000Z"
+    },
+    {
+      "term": "욕먹다",
+      "definition": "꾸짖거나 헐뜯는 일을 당하는 것",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "N/A - 문맥에 따라",
+          "examples": []
+        },
+        "ja": {
+          "term": "悪口言われた",
+          "examples": []
+        },
+        "zh": {
+          "term": "被骂",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-20T11:27:14.000Z",
+      "updated_date": "2021-12-20T11:27:14.000Z"
+    },
+    {
+      "term": "우리-",
+      "definition": "주로 기대에 부합하는 행위를 하는 대상에게 사용하는 긍정적인 의미",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ウチ*",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376340670534",
+          "user": "0",
+          "date": "2022-02-10T05:57:13.000Z",
+          "lang": "common",
+          "value": "해당인물이 잘했을 때 사용하는 접두어"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-10T05:57:13.000Z",
+      "updated_date": "2022-02-10T05:57:13.000Z"
+    },
+    {
+      "term": "우리네",
+      "definition": "우리- + 아이네",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Woori-ne",
+          "examples": []
+        },
+        "ja": {
+          "term": "ウチネ",
+          "examples": []
+        },
+        "zh": {
+          "term": "我们娞（我们的爱娞）",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-12-27T16:58:14.000Z",
+      "updated_date": "2021-12-27T16:58:14.000Z"
+    },
+    {
+      "term": "우왁굳",
+      "definition": "우왕 굳",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Woowakgood",
+          "examples": []
+        },
+        "ja": {
+          "term": "ウーワッグッド",
+          "examples": []
+        },
+        "zh": {
+          "term": "呜哇固",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-27T12:33:30.000Z",
+      "updated_date": "2021-11-27T12:33:30.000Z"
+    },
+    {
+      "term": "원화",
+      "definition": "한국의 원화",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ウォン",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336419743",
+          "user": "0",
+          "date": "2022-02-07T05:18:25.000Z",
+          "lang": "common",
+          "value": "한국 화폐"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-07T05:18:25.000Z",
+      "updated_date": "2022-02-07T05:18:25.000Z"
+    },
+    {
+      "term": "유튭각",
+      "definition": "YouTube 영상 소재로 올라갈 수 있는 상황을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Upload-moment",
+          "examples": []
+        },
+        "ja": {
+          "term": "YouTubeワンチャン",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-25T12:30:47.000Z",
+      "updated_date": "2021-12-25T12:30:47.000Z"
+    },
+    {
+      "term": "육각릴파",
+      "definition": "모든 재능이 뛰어난 릴파를 이르는 말 (내수)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "HexaLilpa",
+          "examples": []
+        },
+        "ja": {
+          "term": "六角リルパ",
+          "examples": []
+        },
+        "zh": {
+          "term": "六角丽儿怕",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:11:05.000Z",
+      "updated_date": "2021-11-27T13:11:05.000Z"
+    },
+    {
+      "term": "육각형 아이돌",
+      "definition": "모든 재능이 뛰어난 아이돌을 이르는 말 (내수)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Hexagonal Idol",
+          "examples": []
+        },
+        "ja": {
+          "term": "六角型アイドル",
+          "examples": []
+        },
+        "zh": {
+          "term": "六角形女团",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-27T13:10:49.000Z",
+      "updated_date": "2021-11-27T13:10:49.000Z"
+    },
+    {
+      "term": "이덕수 할아바이",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Lee Deok Su",
+          "examples": []
+        },
+        "ja": {
+          "term": "イドクスハラバイ",
+          "examples": []
+        },
+        "zh": {
+          "term": "李德秀爷爷",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:37:39.000Z",
+      "updated_date": "2021-12-13T13:37:39.000Z"
+    },
+    {
+      "term": "이세계 아이돌",
+      "definition": "우왁굳의 버츄얼 아이돌 프로젝트명",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Isegye Idol",
+          "examples": []
+        },
+        "ja": {
+          "term": "異世界アイドル",
+          "examples": []
+        },
+        "zh": {
+          "term": "异世界女团",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-27T12:35:16.000Z",
+      "updated_date": "2021-11-27T12:35:16.000Z"
+    },
+    {
+      "term": "이세돌",
+      "definition": "이세계 아이돌의 준말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Isedol",
+          "examples": []
+        },
+        "ja": {
+          "term": "イセドル",
+          "examples": []
+        },
+        "zh": {
+          "term": "异世界女团/异界团",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-28T02:34:42.000Z",
+      "updated_date": "2021-11-28T02:34:42.000Z"
+    },
+    {
+      "term": "일식",
+      "definition": "일본식의 음식. 일본의 무언가를 이를 때 사용 (주로 일본 노래)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "和風",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376338898548",
+          "user": "0",
+          "date": "2022-02-12T18:07:29.000Z",
+          "lang": "common",
+          "value": "일본 노래 등"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-12T18:07:29.000Z",
+      "updated_date": "2022-02-12T18:07:29.000Z"
+    },
+    {
+      "term": "잡았다네",
+      "definition": "잡았다 + 아이네",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Gotcha-ne",
+          "examples": []
+        },
+        "ja": {
+          "term": "ツカメタネ",
+          "examples": []
+        },
+        "zh": {
+          "term": "抓到娞",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-12-27T10:45:22.000Z",
+      "updated_date": "2021-12-27T10:45:22.000Z"
+    },
+    {
+      "term": "저격",
+      "definition": "게임 내에서 해당 스트리머만 찾아서 공격하는 행위",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "スナイプ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-04-14T14:20:39.000Z",
+      "updated_date": "2022-04-14T14:20:39.000Z"
+    },
+    {
+      "term": "절도구",
+      "definition": "절도 (竊盜) + 고세구. 고세구가 무언가를 훔치는 상황이 연출됐을 때 사용",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "泥棒グ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2022-03-26T08:19:00.000Z",
+      "updated_date": "2022-03-26T08:19:00.000Z"
+    },
+    {
+      "term": "정배",
+      "definition": "정 (正) 배팅",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Straight-up (SU) / Straight",
+          "examples": []
+        },
+        "ja": {
+          "term": "正バッティング",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-30T05:27:49.000Z",
+      "updated_date": "2021-12-30T05:27:49.000Z"
+    },
+    {
+      "term": "제루씌",
+      "definition": "시청자 닉네임",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ゼルシィ\n",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-27T04:47:08.000Z",
+      "updated_date": "2022-02-27T04:47:08.000Z"
+    },
+    {
+      "term": "좋아요",
+      "definition": "YouTube 좋아요 버튼",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Like",
+          "examples": []
+        },
+        "ja": {
+          "term": "高評価",
+          "examples": []
+        },
+        "zh": {
+          "term": "点赞",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376334311007",
+          "user": "0",
+          "date": "2021-12-12T09:08:32.000Z",
+          "lang": "common",
+          "value": "유튜브에서 사용하는 좋아요"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-12T09:08:32.000Z",
+      "updated_date": "2021-12-12T09:08:32.000Z"
+    },
+    {
+      "term": "주랄",
+      "definition": "주르르 + 지랄",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Ju-ringe / Ju-ringey",
+          "examples": []
+        },
+        "ja": {
+          "term": "ジュリっ子",
+          "examples": []
+        },
+        "zh": {
+          "term": "朱撩",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "주르르"
+      ],
+      "registered_date": "2021-11-28T06:09:11.000Z",
+      "updated_date": "2021-11-28T06:09:11.000Z"
+    },
+    {
+      "term": "주르르",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Jururu",
+          "examples": []
+        },
+        "ja": {
+          "term": "ジュルル",
+          "examples": []
+        },
+        "zh": {
+          "term": "朱日日",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "주르르"
+      ],
+      "registered_date": "2021-11-27T12:35:15.000Z",
+      "updated_date": "2021-11-27T12:35:15.000Z"
+    },
+    {
+      "term": "주폭도",
+      "definition": "주르르 + 폭도. 주르르의 팬 (덤)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Jupokdo",
+          "examples": []
+        },
+        "ja": {
+          "term": "ジュ暴徒",
+          "examples": []
+        },
+        "zh": {
+          "term": "朱暴徒（狂热粉丝）",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "주르르"
+      ],
+      "registered_date": "2021-11-27T21:44:21.000Z",
+      "updated_date": "2021-11-27T21:44:21.000Z"
+    },
+    {
+      "term": "징버거",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Jingburger",
+          "examples": []
+        },
+        "ja": {
+          "term": "ジンバーガー",
+          "examples": []
+        },
+        "zh": {
+          "term": "精堡歌",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376337410392",
+          "user": "0",
+          "date": "2021-11-27T12:35:14.000Z",
+          "lang": "common",
+          "value": "찡버거 : ジーンバーガー(찡하다+징버거)"
+        }
+      ],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2021-11-27T12:35:14.000Z",
+      "updated_date": "2021-11-27T12:35:14.000Z"
+    },
+    {
+      "term": "징쿠",
+      "definition": "징버거 + 미쿠. 방송에서 가끔 사용하는 미쿠 아바타를 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Jing-ku",
+          "examples": []
+        },
+        "ja": {
+          "term": "ジンク",
+          "examples": []
+        },
+        "zh": {
+          "term": "初音堡歌",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2022-01-15T16:51:51.000Z",
+      "updated_date": "2022-01-15T16:51:51.000Z"
+    },
+    {
+      "term": "징폭스",
+      "definition": "징버거 + 폭스. 여우짓을 하는 징버거를 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ジンフォックス",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2022-01-20T06:10:15.000Z",
+      "updated_date": "2022-01-20T06:10:15.000Z"
+    },
+    {
+      "term": "쫄보챤",
+      "definition": "쫄보 + 비챤",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Chicken-Chan",
+          "examples": []
+        },
+        "ja": {
+          "term": "ゔぃゔぃりちゃん",
+          "examples": []
+        },
+        "zh": {
+          "term": "胆小婵",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376334576658",
+          "user": "0",
+          "date": "2021-12-21T05:05:06.000Z",
+          "lang": "common",
+          "value": "ゔぃゔぃりちゃん(?)은 어떨까요)왕 킹아! Wimp-Chan 어떤가요?"
+        }
+      ],
+      "tags": [
+        "비챤"
+      ],
+      "registered_date": "2021-12-21T05:05:06.000Z",
+      "updated_date": "2021-12-21T05:05:06.000Z"
+    },
+    {
+      "term": "컨텐츠괴물",
+      "definition": "컨텐츠를 괴물처럼 많이 만들어 내는 사람을 이르는 말",
+      "alias": [
+        "컨괴"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Content Titan",
+          "examples": []
+        },
+        "ja": {
+          "term": "コンテンツ化け物",
+          "examples": []
+        },
+        "zh": {
+          "term": "节目鬼才",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376335479318",
+          "user": "0",
+          "date": "2021-11-28T08:36:23.000Z",
+          "lang": "common",
+          "value": "Content Beast 가 더 자연스럽지 싶네요"
+        }
+      ],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2021-11-28T08:36:23.000Z",
+      "updated_date": "2021-11-28T08:36:23.000Z"
+    },
+    {
+      "term": "클립",
+      "definition": "방송의 하이라이트를 담은 짧은 영상",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Clip",
+          "examples": []
+        },
+        "ja": {
+          "term": "切り抜き",
+          "examples": []
+        },
+        "zh": {
+          "term": "剪辑",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-20T02:05:54.000Z",
+      "updated_date": "2022-01-20T02:05:54.000Z"
+    },
+    {
+      "term": "킹아",
+      "definition": "좋아 + 킹 (왕. 긍정형 접두사)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "King-A",
+          "examples": []
+        },
+        "ja": {
+          "term": "キンア/キンーア",
+          "examples": []
+        },
+        "zh": {
+          "term": "挺啊（挺好啊）",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-28T08:34:40.000Z",
+      "updated_date": "2021-11-28T08:34:40.000Z"
+    },
+    {
+      "term": "택구",
+      "definition": "세구를 귀엽게 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "テッグ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2022-01-19T06:38:37.000Z",
+      "updated_date": "2022-01-19T06:38:37.000Z"
+    },
+    {
+      "term": "탸니",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ティャニ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "비챤"
+      ],
+      "registered_date": "2022-04-12T11:52:05.000Z",
+      "updated_date": "2022-04-12T11:52:05.000Z"
+    },
+    {
+      "term": "토컨",
+      "definition": "토 + 컨트롤. 역겨운 것을 참아라는 뜻으로 사용",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ゲロコン",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-07T05:15:43.000Z",
+      "updated_date": "2022-02-07T05:15:43.000Z"
+    },
+    {
+      "term": "퇴물",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Dud / Goner",
+          "examples": []
+        },
+        "ja": {
+          "term": "オワコン",
+          "examples": []
+        },
+        "zh": {
+          "term": "退役者",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-24T03:23:09.000Z",
+      "updated_date": "2021-12-24T03:23:09.000Z"
+    },
+    {
+      "term": "투나",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Toona",
+          "examples": []
+        },
+        "ja": {
+          "term": "トゥーナ",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2021-12-07T03:37:26.000Z",
+      "updated_date": "2021-12-07T03:37:26.000Z"
+    },
+    {
+      "term": "트수쿤",
+      "definition": "트위치 + 백수 + 일본어 2인칭 쿤. 트위치 방송을 모든 시청자를 모두 트수라고 표현",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Viewer-kun",
+          "examples": []
+        },
+        "ja": {
+          "term": "トゥスクン",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-15T08:44:56.000Z",
+      "updated_date": "2022-01-15T08:44:56.000Z"
+    },
+    {
+      "term": "팬",
+      "definition": "어떤 대상에 대한 애호가",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Fan\n",
+          "examples": []
+        },
+        "ja": {
+          "term": "ファン",
+          "examples": []
+        },
+        "zh": {
+          "term": "粉丝",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-18T04:12:45.000Z",
+      "updated_date": "2022-01-18T04:12:45.000Z"
+    },
+    {
+      "term": "팬치",
+      "definition": "우왁굳의 팬",
+      "alias": [
+        "뺑띠"
+      ],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Panzee / Bbaeng-Tti",
+          "examples": []
+        },
+        "ja": {
+          "term": "チンパンジー／パンチー",
+          "examples": []
+        },
+        "zh": {
+          "term": "黑猩猩/小猩猩",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376339168512",
+          "user": "0",
+          "date": "2021-12-15T16:01:35.000Z",
+          "lang": "common",
+          "value": "전자 직역/후자 음차표기"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-15T16:01:35.000Z",
+      "updated_date": "2021-12-15T16:01:35.000Z"
+    },
+    {
+      "term": "퐉스련",
+      "definition": "여우짓 + 년. 여우짓을 하는 사람을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Fox",
+          "examples": []
+        },
+        "ja": {
+          "term": "あざとい女",
+          "examples": []
+        },
+        "zh": {
+          "term": "狐狸精",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376336977348",
+          "user": "0",
+          "date": "2021-11-29T08:30:18.000Z",
+          "lang": "common",
+          "value": "영어 - 기본형에서 알잘딱 변형"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-29T08:30:18.000Z",
+      "updated_date": "2021-11-29T08:30:18.000Z"
+    },
+    {
+      "term": "풀영상",
+      "definition": "편집이 가해지지 않은 전체 길이의 영상을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Full video",
+          "examples": []
+        },
+        "ja": {
+          "term": "フル動画",
+          "examples": []
+        },
+        "zh": {
+          "term": "无编辑视频/完整视频",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-06T14:58:02.000Z",
+      "updated_date": "2021-12-06T14:58:02.000Z"
+    },
+    {
+      "term": "풀트래커",
+      "definition": "VR에서 실제 몸의 위치를 표현하기 위해 몸에 부착하는 장치, 혹은 착용한 상태 그 자체.",
+      "alias": [
+        "풀트"
+      ],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "フルトラッカー / フルトラ",
+          "examples": []
+        },
+        "zh": {
+          "term": "全身追踪器/全身追踪",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-08T05:24:40.000Z",
+      "updated_date": "2022-02-08T05:24:40.000Z"
+    },
+    {
+      "term": "풍신",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Pungsin",
+          "examples": []
+        },
+        "ja": {
+          "term": "風神",
+          "examples": []
+        },
+        "zh": {
+          "term": "风神",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:37:19.000Z",
+      "updated_date": "2021-12-13T13:37:19.000Z"
+    },
+    {
+      "term": "하이네",
+      "definition": "하이 + 아이네",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Hi-ne",
+          "examples": []
+        },
+        "ja": {
+          "term": "ハイネ",
+          "examples": []
+        },
+        "zh": {
+          "term": "hi娞",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-12-27T16:58:03.000Z",
+      "updated_date": "2021-12-27T16:58:03.000Z"
+    },
+    {
+      "term": "하이빵가루",
+      "definition": "하이 + 방가 + 루의 변형",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ハイパンカル",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2022-02-16T07:55:15.000Z",
+      "updated_date": "2022-02-16T07:55:15.000Z"
+    },
+    {
+      "term": "하치키타치",
+      "definition": "매니저 뢴트게늄의 울음 소리를 나타내는 말. 유래는 [여기 참조](https://www.youtube.com/watch?v=_SUd0Jd7J3g)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Hachikitachi",
+          "examples": []
+        },
+        "ja": {
+          "term": "ハチキタチ",
+          "examples": []
+        },
+        "zh": {
+          "term": "哈其剋塌其",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "릴파"
+      ],
+      "registered_date": "2022-01-15T17:19:04.000Z",
+      "updated_date": "2022-01-15T17:19:04.000Z"
+    },
+    {
+      "term": "하현",
+      "definition": "고정 멤버에서 비교적 인기가 적은 하위 멤버를 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Lower ranks",
+          "examples": []
+        },
+        "ja": {
+          "term": "下弦",
+          "examples": []
+        },
+        "zh": {
+          "term": "下弦",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-09T07:47:37.000Z",
+      "updated_date": "2021-12-09T07:47:37.000Z"
+    },
+    {
+      "term": "합방",
+      "definition": "합동 방송",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Collab / Collaboration",
+          "examples": []
+        },
+        "ja": {
+          "term": "コラボ配信 / コラボ",
+          "examples": []
+        },
+        "zh": {
+          "term": "联合直播",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-11-29T02:51:44.000Z",
+      "updated_date": "2021-11-29T02:51:44.000Z"
+    },
+    {
+      "term": "핫클립",
+      "definition": "인기 있는 클립",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Popular Clip / Most Viewed Clip",
+          "examples": []
+        },
+        "ja": {
+          "term": "人気の切り抜き / 人気クリップ",
+          "examples": []
+        },
+        "zh": {
+          "term": "人气剪辑",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376341486361",
+          "user": "0",
+          "date": "2022-01-20T00:58:19.000Z",
+          "lang": "common",
+          "value": "人気の切り抜き라고 하기엔 뭔가 좀... 알잘딱 단어 추천 부탁"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-20T00:58:19.000Z",
+      "updated_date": "2022-01-20T00:58:19.000Z"
+    },
+    {
+      "term": "해냈다~ 해냈어~ 버거가 해냈어~ 징버거!",
+      "definition": "징버거의 구독 멘트 (였음)",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Made it~ Made it~ Burger made it~ Jingburger!",
+          "examples": []
+        },
+        "ja": {
+          "term": "やったよやったよバーガーがやりました～ジンバーガー",
+          "examples": []
+        },
+        "zh": {
+          "term": "成功了~成功啦~堡歌成功了~精堡歌！",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2021-12-25T11:00:00.000Z",
+      "updated_date": "2021-12-25T11:00:00.000Z"
+    },
+    {
+      "term": "해루석",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "(Hae) Rusuk",
+          "examples": []
+        },
+        "ja": {
+          "term": "海楼石",
+          "examples": []
+        },
+        "zh": {
+          "term": "海楼石",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:36:40.000Z",
+      "updated_date": "2021-12-13T13:36:40.000Z"
+    },
+    {
+      "term": "햄세구",
+      "definition": "햄스터 + 고세구. 고세구의 햄스터 아바타를 이름",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ハムセグ",
+          "examples": []
+        },
+        "zh": {
+          "term": "鼠赛固",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2022-01-18T04:53:08.000Z",
+      "updated_date": "2022-01-18T04:53:08.000Z"
+    },
+    {
+      "term": "햄이네",
+      "definition": "햄스터 + 아이네. 아이네의 햄스터 아바타를 이름",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Hamine",
+          "examples": []
+        },
+        "ja": {
+          "term": "ハムイネ",
+          "examples": []
+        },
+        "zh": {
+          "term": "鼠爱娞",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376337274070",
+          "user": "0",
+          "date": "2021-11-28T08:28:20.000Z",
+          "lang": "common",
+          "value": "햄이네가 첨 나온게 릴파님이 키우던 햄스터닮았다는 발언이 처음이라ヘミネーハムイネ로 수정했습니다"
+        }
+      ],
+      "tags": [
+        "아이네"
+      ],
+      "registered_date": "2021-11-28T08:28:20.000Z",
+      "updated_date": "2021-11-28T08:28:20.000Z"
+    },
+    {
+      "term": "혐팬치",
+      "definition": "혐오감을 일으키는 행위를 하는 팬을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "アンチンパンジー",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376340707210",
+          "user": "0",
+          "date": "2022-03-06T15:31:08.000Z",
+          "lang": "common",
+          "value": "アンチ+チンパンジー. 분탕치는 팬치를 의미할때 사용"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-03-06T15:31:08.000Z",
+      "updated_date": "2022-03-06T15:31:08.000Z"
+    },
+    {
+      "term": "홍조",
+      "definition": "부끄럽거나 취하여 붉어진 얼굴",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Blush",
+          "examples": []
+        },
+        "ja": {
+          "term": "紅潮",
+          "examples": []
+        },
+        "zh": {
+          "term": "红潮",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "주르르"
+      ],
+      "registered_date": "2022-01-06T15:18:33.000Z",
+      "updated_date": "2022-01-06T15:18:33.000Z"
+    },
+    {
+      "term": "확그냥",
+      "definition": "확! 그냥",
+      "alias": [
+        "화끄냥"
+      ],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "ファクニャン",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2022-02-04T08:45:59.000Z",
+      "updated_date": "2022-02-04T08:45:59.000Z"
+    },
+    {
+      "term": "훈수",
+      "definition": "바둑·장기 등에서, 옆에서 똥기어 가르쳐 주는 것. 또는, 그 수",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "backseat driving/gaming",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-01-22T15:14:01.000Z",
+      "updated_date": "2022-01-22T15:14:01.000Z"
+    },
+    {
+      "term": "훈수충",
+      "definition": "과도하세 훈수를 하는 사람을 낮잡아 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "ja": {
+          "term": "指示厨",
+          "examples": []
+        },
+        "zh": {
+          "term": "键盘侠",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376340381133",
+          "user": "0",
+          "date": "2022-02-24T05:16:50.000Z",
+          "lang": "common",
+          "value": "훈수충"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2022-02-24T05:16:50.000Z",
+      "updated_date": "2022-02-24T05:16:50.000Z"
+    },
+    {
+      "term": "휴방",
+      "definition": "휴식 + 방송. 방송을 쉬는 날을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Stream break",
+          "examples": []
+        },
+        "ja": {
+          "term": "お休み",
+          "examples": []
+        },
+        "zh": {
+          "term": "休播",
+          "examples": []
+        }
+      },
+      "discussions": [
+        {
+          "id": "5908599376337514252",
+          "user": "0",
+          "date": "2021-12-07T13:26:39.000Z",
+          "lang": "common",
+          "value": "영어 - 기본형에서 알잘딱 변형"
+        }
+      ],
+      "tags": [
+        "기타"
+      ],
+      "registered_date": "2021-12-07T13:26:39.000Z",
+      "updated_date": "2021-12-07T13:26:39.000Z"
+    },
+    {
+      "term": "히죽구",
+      "definition": "히죽 + 고세구. 히죽 웃고 있는 고세구 특유의 표정을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Smirk-gu",
+          "examples": []
+        },
+        "ja": {
+          "term": "ニヤグ",
+          "examples": []
+        },
+        "zh": {
+          "term": "嘻嘻固",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고세구"
+      ],
+      "registered_date": "2021-12-02T05:40:25.000Z",
+      "updated_date": "2021-12-02T05:40:25.000Z"
+    },
+    {
+      "term": "히죽버거",
+      "definition": "히죽 + 징버거. 히죽 웃고 있는 징버거 특유의 표정을 이르는 말",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Smirk-Burger",
+          "examples": []
+        },
+        "ja": {
+          "term": "ニヤバーガー",
+          "examples": []
+        },
+        "zh": {
+          "term": "嘻嘻堡歌",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "징버거"
+      ],
+      "registered_date": "2021-12-02T05:40:45.000Z",
+      "updated_date": "2021-12-02T05:40:45.000Z"
+    },
+    {
+      "term": "히키킹",
+      "definition": "고유 명사",
+      "alias": [],
+      "state": 0,
+      "translations": {
+        "en": {
+          "term": "Hikiking",
+          "examples": []
+        },
+        "ja": {
+          "term": "ひきキング",
+          "examples": []
+        },
+        "zh": {
+          "term": "宅男王",
+          "examples": []
+        }
+      },
+      "discussions": [],
+      "tags": [
+        "고멤"
+      ],
+      "registered_date": "2021-12-13T13:37:11.000Z",
+      "updated_date": "2021-12-13T13:37:11.000Z"
+    }
+  ]
+}
